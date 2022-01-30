@@ -1,0 +1,46 @@
+body { @apply text-gray-600; }
+
+h1,
+h2,
+h3,
+h4 { @apply text-black font-oswald; }
+
+h2,
+h3,
+h4 { @apply mt-2 mb-4; }
+
+h2 { @apply text-2xl; }
+
+h3,
+h4 { @apply text-xl; }
+
+p { @apply mb-4; }
+
+ul,
+ol { @apply pl-5 mb-4; }
+
+ul { @apply list-disc; }
+
+ol { @apply list-decimal; }
+
+ul li,
+ol li { @apply mb-1; }
+
+blockquote { @apply italic pl-4 mb-4 border-l-4 border-black; }
+
+p code,
+li code,
+a code {
+  @apply bg-black rounded text-white;
+
+  padding: 1px 3px;
+  font-size: 13px;
+}
+
+.nuxt-content-container a { @apply text-black font-semibold underline; }
+
+.nuxt-content-highlight { @apply mb-4; }
+
+img { @apply rounded-md border; }
+
+audio { @apply w-full; }
