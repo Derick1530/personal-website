@@ -1,5 +1,5 @@
 <template>
-  <div class="animated fadeInUp">
+  <div>
     <h1 class="text-4xl mb-3 lg:mb-6 lg:text-6xl">
       {{ content.title }}
     </h1>
@@ -51,7 +51,7 @@
         </div>
       </div>
     </div>
-    <div v-if="showContent" class="animated fadeIn">
+    <div v-if="showContent">
       <nuxt-content :document="content" />
       <Footer />
     </div>

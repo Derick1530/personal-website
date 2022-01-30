@@ -1,5 +1,5 @@
 <template>
-  <div class="animated fadeIn">
+  <div>
     <h1 class="text-4xl mb-3 lg:mb-6 lg:text-6xl">
       Staff Engineer, IndieHacker, & Musician
     </h1>
