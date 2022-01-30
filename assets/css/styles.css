@@ -43,4 +43,6 @@ a code {
 
 img { @apply rounded-md border; }
 
+strong { @apply text-black; }
+
 audio { @apply w-full; }
