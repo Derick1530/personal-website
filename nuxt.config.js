@@ -4,15 +4,11 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'personal-website',
-    htmlAttrs: {
-      lang: 'en'
-    },
+    title: 'Shadow Smith',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: '' },
-      { name: 'format-detection', content: 'telephone=no' }
+      { hid: 'description', name: 'description', content: 'Shadow Smith is a Staff Engineer, IndieHacker, & Musician that loves helping others creatively solve problems with visual design, code, and collaboration.' }
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
