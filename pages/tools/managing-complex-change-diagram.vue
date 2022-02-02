@@ -36,6 +36,18 @@ export default {
       ]
     }
   },
+  head () {
+    return {
+      title: 'Interactive diagram for managing complex change | Shadow Smith',
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content: 'An interactive widget made from an extremely valuable diagram for managing complex change.'
+        }
+      ]
+    }
+  },
   computed: {
     output () {
       switch (this.missingNeed) {
