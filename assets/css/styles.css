@@ -37,7 +37,7 @@ a code {
   font-size: 13px;
 }
 
-.nuxt-content-container a { @apply text-black font-semibold underline; }
+.nuxt-content-container a, .nuxt-content a { @apply text-black font-semibold underline; }
 
 .nuxt-content-highlight { @apply mb-4; }
 
