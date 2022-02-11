@@ -10,3 +10,4 @@ type: Thought
 3. If you have to Google for an answer to a problem for more than 10 minutes, write an article about it once you solve it.
 4. To go fast, go alone. To go far, go together.
 5. Learn to understand. Teach to master.
+6. You miss 100% of the shots you don't take.
