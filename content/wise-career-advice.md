@@ -11,3 +11,4 @@ type: Thought
 4. To go fast, go alone. To go far, go together.
 5. Learn to understand. Teach to master.
 6. You miss 100% of the shots you don't take.
+7. The best time to create a portfolio site was when you started your career, the next best time is today.
