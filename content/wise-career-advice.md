@@ -12,3 +12,4 @@ type: Thought
 5. Learn to understand. Teach to master.
 6. You miss 100% of the shots you don't take.
 7. The best time to create a portfolio site was when you started your career, the next best time is today.
+8. A client will become a friend faster than a friend will become a client.
