@@ -9,7 +9,7 @@
     <div class="flex md:block">
       <div class="text-xl flex flex-col justify-between items-center mb-6 md:flex-row lg:mb-12 lg:text-2xl">
         <template v-for="(need, index) in needs">
-          <span :key="`${need}${index}`" class="border rounded cursor-pointer text-center py-3 px-2 w-full xl:py-6 hover:border-black" :class="{ 'bg-black text-black': missingNeed === need }" @click="removeNeed(need)">
+          <span :key="`${need}${index}`" class="border rounded cursor-pointer text-center py-3 px-2 w-full xl:py-6 hover:border-slate-800" :class="{ 'bg-slate-800 text-slate-800': missingNeed === need }" @click="removeNeed(need)">
             {{ need }}
           </span>
           <span v-if="index < needs.length - 1" :key="`Plus${index}`" class="py-2 px-4">+</span>

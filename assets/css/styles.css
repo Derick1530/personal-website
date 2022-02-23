@@ -3,7 +3,7 @@ body { @apply text-gray-600; }
 h1,
 h2,
 h3,
-h4 { @apply text-black font-oswald; }
+h4 { @apply text-slate-800 font-oswald; }
 
 h2,
 h3,
@@ -26,23 +26,24 @@ ol { @apply list-decimal; }
 ul li,
 ol li { @apply mb-1; }
 
-blockquote { @apply italic pl-4 mb-4 border-l-4 border-black; }
+blockquote { @apply italic pl-4 mb-4 border-l-4 border-slate-800; }
 
 p code,
 li code,
 a code {
-  @apply bg-black rounded text-white;
+  @apply bg-slate-800 rounded text-white;
 
   padding: 1px 3px;
   font-size: 13px;
 }
 
-.nuxt-content-container a, .nuxt-content a { @apply text-black font-semibold underline; }
+.nuxt-content-container a,
+.nuxt-content a { @apply text-slate-800 font-semibold underline; }
 
 .nuxt-content-highlight { @apply mb-4; }
 
 img { @apply rounded-md border; }
 
-strong { @apply text-black; }
+strong { @apply text-slate-800; }
 
 audio { @apply w-full; }
