@@ -5,16 +5,16 @@
     </h1>
     <p class="text-xl lg:text-2xl">
       I'm currently at <a
-        class="text-black font-semibold underline"
+        class="text-slate-800 font-semibold underline"
         href="https://openly.com"
         target="_blank"
         rel="noopener noreferrer"
       >Openly</a> pushing the insurance industry forward one project at a time.
     </p>
     <div class="flex items-center my-8">
-      <div class="h-14 w-14 bg-cover rounded-full mr-4" style="background-image: url('https://pbs.twimg.com/profile_images/1402045149673308161/vXFA16vI_400x400.jpg');" />
+      <div class="h-14 w-14 bg-cover rounded-full border-2 border-slate-800 mr-4" style="background-image: url('https://pbs.twimg.com/profile_images/1402045149673308161/vXFA16vI_400x400.jpg');" />
       <div>
-        <a href="https://twitter.com/heyshadowsmith" class="text-black font-semibold">@heyshadowsmith</a>
+        <a href="https://twitter.com/heyshadowsmith" class="text-slate-800 font-semibold">@heyshadowsmith</a>
         <p class="mb-0">
           {{ formatDate('2022-01-27') }}
         </p>
