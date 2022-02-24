@@ -1,4 +1,8 @@
-body { @apply text-gray-600; }
+body {
+  @apply text-gray-600;
+
+  background-color: #f7f9ff;
+}
 
 h1,
 h2,
