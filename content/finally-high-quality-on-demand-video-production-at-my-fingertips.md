@@ -12,6 +12,10 @@ It worked incredibly well, and I easily used it every day. However, when I left 
 Now that I work for a remote-first company that uses Macbooks, my need for a solution like I had was stronger than ever, but I had no idea where to start on a Mac. 
 
 So I began working toward a new solution to this while also taking it a step further to increase the overall production quality.
+<br>
+<br>
+<hr>
+<br>
 
 ## The gear
 
@@ -22,6 +26,10 @@ Other than a Stream Deck, I already had everything else in my office from workin
 3. [Elgato Stream Deck](https://www.elgato.com/en/stream-deck)
 4. [Open Broadcaster Software (OBS)](https://obsproject.com/)
 5. [Nanoleaf Smart Lighting](https://nanoleaf.me/en-US/)
+<br>
+<br>
+<hr>
+<br> 
 
 ## What I've done
 
