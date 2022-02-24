@@ -28,6 +28,8 @@ ol li { @apply mb-1; }
 
 blockquote { @apply italic pl-4 mb-4 border-l-4 border-slate-800; }
 
+hr { @apply my-10; }
+
 p code,
 li code,
 a code {

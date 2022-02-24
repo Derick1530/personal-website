@@ -6,9 +6,8 @@ type: Explainer
 ---
 
 ![Tailwind CSS Utility Class as Electron](/img/tailwind-css-utility-classes-the-ultimate-electrons-for-atomic-design/tailwind-css-utility-class-electron.png "Tailwind CSS Utility Class as Electron")
-<br>
+
 <hr>
-<br>
 
 In this article, I'm going to explain how I believe styles, but more specifically [Tailwind](https://tailwindcss.com/)'s generated CSS utility classes, can fit into [Atomic Design](https://bradfrost.com/blog/post/atomic-web-design/) methodology if we extend Brad Frost's initial analogy by adding electrons.
 
@@ -25,23 +24,21 @@ A UI component library is a centralized collection of UI components used to enfo
 
 **Atomic Design**<br>
 Atomic Design is a methodology created by Brad Frost that suggests that highly effective design systems follow a structure similar to that of Chemistry where entities of a design system grow in complexity from atoms, to molecules, organisms, templates, and finally pages.
-<br>
-<br>
+
 <hr>
-<br>
 
 ## Style as electrons to atoms
+
 In Chemistry, electrons are found in shells that surround the nucleus of an atom and influence the overall shape of the atom. In addition, the electrons in the outer-most shell are responsible for creating the chemical bonds that join atoms together to form larger molecules and compounds.
 
 The visual treatment added to a design system's atom directly influences its shape, and styles are also responsible for the arrangement, or joining, of atoms in larger molecule and organism components.
 
 Therefore, styles as electrons to atoms in a design system feels like an acceptable extension of the Atomic Design methodology.
-<br>
-<br>
+
 <hr>
-<br>
 
 ## Why Tailwind's CSS utility classes are the ultimate electrons
+
 This is where the electrons analogy gets really specific to how styles are added to HTML elements in the browser using CSS.
 
 CSS is a complex, ever-evolving, rule-based language that is used to specify groups of styles that should be applied to particular elements or groups of elements, but with all of the specificity and inheritance issues, cross browser compatibility, media queries, multiple stylesheets, bloated files, class naming conventions, and CSS preprocessor flavors, writing and maintaining CSS at scale can be an absolute nightmare.
