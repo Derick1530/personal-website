@@ -2,7 +2,7 @@
 title: Born With
 description: This is an acoustic song I wrote about being grateful for the life you have.
 updatedAt: 2014-01-24
-type: Music
+type: Song
 track: /songs/born-with.mp3
 ---
 

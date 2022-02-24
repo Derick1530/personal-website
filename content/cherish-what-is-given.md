@@ -2,7 +2,7 @@
 title: Cherish What is Given
 description: An alternative rock song I wrote about appreciating life.
 updatedAt: 2012-06-20
-type: Music
+type: Song
 track: /songs/cherish-what-is-given.mp3
 ---
 

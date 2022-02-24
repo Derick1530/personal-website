@@ -2,7 +2,7 @@
 title: Counting Down the Days
 description: An alternative rock song I wrote about looking forward to finding the love of my life.
 updatedAt: 2012-03-15
-type: Music
+type: Song
 track: /songs/counting-down-the-days.mp3
 ---
 

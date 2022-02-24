@@ -2,13 +2,13 @@
 title: Go, Disappear, Run Away
 description: This is an alternative rock song I wrote about giving in to loving someone that you tried to run from.
 updatedAt: 2014-04-21
-type: Music
+type: Song
 track: /songs/go-disappear-run-away.mp3
 ---
 
 (Go with me, Run with me, Go with me, Disappear)<br>
 <br>
- If I ask you to please never leave<br>
+If I ask you to please never leave<br>
 Will you realize I can't rest without you?<br>
 Either here or far<br>
 I can feel you where you are<br>

@@ -2,14 +2,14 @@
 title: Creative Enough
 description: An alternative indie song I wrote about how its amazingly beautiful the world is.
 updatedAt: 2013-05-21
-type: Music
+type: Song
 track: /songs/creative-enough.mp3
 ---
 
 I love to go down to the water and sit on the dock<br>
 And hear the blue birds sing to each other<br>
 I watch the ripples on the surface<br>
-When a leaf from a tree falls into<br> 
+When a leaf from a tree falls into<br>
 The liquid mirror holding the sky<br>
 The liquid mirror holding the sky<br>
 <br>

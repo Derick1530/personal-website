@@ -2,7 +2,7 @@
 title: Downtown
 description: An alternative rock song I wrote about having fun with friends in the city.
 updatedAt: 2014-06-23
-type: Music
+type: Song
 track: /songs/downtown.mp3
 ---
 

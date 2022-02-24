@@ -2,9 +2,10 @@
 title: Arizona
 description: An alternative indie song about wondering where the love of my life is.
 updatedAt: 2012-02-10
-type: Music
+type: Song
 track: /songs/arizona.mp3
 ---
+
 I am unaware of your face, or when you will appear<br>
 but I'm doing everything I can to forget you're not here<br>
 Patiently waiting here alone saving who I am for someone I don't know<br>

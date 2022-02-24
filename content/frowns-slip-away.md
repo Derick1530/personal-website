@@ -2,7 +2,7 @@
 title: Frowns Slip Away
 description: This is an indie pop song I wrote about songs that make you happy when you hear them.
 updatedAt: 2013-05-12
-type: Music
+type: Song
 track: /songs/frowns-slip-away.mp3
 ---
 
