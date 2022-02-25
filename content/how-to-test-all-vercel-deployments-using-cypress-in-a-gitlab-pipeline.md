@@ -8,6 +8,7 @@ type: How-To
 In this tutorial, I'm going to be walking you step-by-step through how to set up a simple GitLab pipeline that allows you to run automated tests against every Vercel deployment.
 
 I assume you know what [Vercel](https://vercel.com), [Cypress](https://cypress.io), and [GitLab](https://gitlab.com) are and how to use them, so I'm going to jump straight into the "How to" details.
+<hr>
 
 ## 1. Add a Vercel Token to GitLab through CI / CD Settings
 
@@ -34,6 +35,7 @@ To add our Vercel Token to GitLab, so it can be used by our job runners:
 8. In the **Value** field, add your Vercel Token value
 9. Ensure **Protect variable** and **Mask variable** are checked
 10. Click **Add variable**
+<hr> 
 
 ## 2. Write our .gitlab-ci.yml file
 ### Set the "stages"
@@ -142,6 +144,7 @@ This section:
 ```
 
 And finally, this section is where we keep Cypress' test screenshots and videos artifacts when this job succeeds, so we can review them, or share them with other stakeholders.
+<hr>
 
 ## 3. Push the .gitlab-ci.yml file up to your repo
 In order for GitLab to run your pipeline, we need to push up the `.gitlab-ci.yml` file, but before you do that, ensure that yours looks like this.
