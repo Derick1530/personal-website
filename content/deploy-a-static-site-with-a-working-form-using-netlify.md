@@ -11,6 +11,7 @@ This article is intentionally focused on more primitive concepts leaving out sty
 I am also not covering Git to keep the barrier to entry lower, but I highly recommend you learn how to use it because Netlify is designed to auto-deploy Git repositories over the drag-and-drop to deploy method I use in this article. So please learn this next.
 
 With all of that out of the way, let's get started.
+<hr>
 
 ## Project setup
 
@@ -46,6 +47,7 @@ Since Netlify deploys static files as websites, I can keep this tutorial simple 
 </body>
 </html>
 ```
+<hr>
 
 ## Add your form
 
@@ -119,6 +121,7 @@ By default your submissions are only stored in your Netlify account, but you hav
 </html>
 ```
 The value you provide to the `name` attribute will be used by Netlify and will become the name of this form in your account, so if you need multiple forms on a site, be sure to give them all unique names.
+<hr>
 
 ## Add a redirect to your custom Thank You page on form submission
 
@@ -154,11 +157,14 @@ In your case, this is going to be `action="/thanks.html"`, and once you add this
 And that's it for your website.
 
 Now we can move on to deploying your website to Netlify, updating your domain name, and setting up Form Notifications.
+<hr>
+
 ## Deploy your website to Netlify
 1. [Create a free Netlify account](https://app.netlify.com/signup)
 2. Drag and drop your project folder like so.
 
 ![Drag and Drop to Netlify](/img/deploy-a-static-site-with-a-working-form-using-netlify/drag-and-drop-to-netlify.gif "Drag and Drop to Netlify")
+<hr>
 
 ## Update your domain name
 
@@ -174,6 +180,7 @@ By default, Netlify assigns a random subdomain like `adoring-ritchie-fbd944` to 
 4. Change the site name to what ever you would like.
 
 Once you have finished that, you will see that your website's domain name has been updated to `https://[your-site-name].netlify.app`.
+<hr>
 
 ## Set up Form Notifications
 
@@ -187,12 +194,14 @@ Here's how.
 4. Keep the **Event to listen for** field set to **New form submission**.
 5. Set the **Email to notify** field to whatever email you wish to receive your website's form submissions.
 6. Keep the **Form** field set to **Any form**.
+<hr>
 
 ## Give your form a try
 
 Go to `https://[your-site-name].netlify.app`, enter a name in the input, and hit enter.
 
 If you did everything correctly, you should receive an email notification from Netlify with the name you just submitted through the form—all without having to deal with writing server-side code.
+<hr>
 
 ## Conclusion
 

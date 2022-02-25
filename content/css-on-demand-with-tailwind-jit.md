@@ -12,6 +12,7 @@ With all of the specificity and inheritance issues, multiple stylesheets, bloate
 Well, what if I told you that you could create a consistent CSS design system framework in minutes that only compiles what you use out of the framework in any environment?
 
 If you have ever had to juggle CSS, update CSS hoping you didn’t mess anything up, or purge unused CSS for Production, you should be extremely hype right now, and in this article, I'm going to briefly describe [TailwindCSS](https://tailwindcss.com) and explain some of the feature updates you get by using its new, cutting-edge Just-in-Time compiler.
+<hr>
 
 ## What is TailwindCSS?
 Putting it simply, Tailwind is a tool used to convert a customizable design system into a low-level, utility-first CSS framework. 
@@ -34,6 +35,7 @@ See what I mean? Tailwind's CSS classes target individual CSS properties.
 It doesn't have predefined chunks of CSS to quickly make things like buttons or navbars, but that is one of its major selling points.
 
 Tailwind is meant to be used to create unique styles for your components, so you don't have to choose between `!important` hacking a CSS framework to match your project's branding or letting the framework's opinionated styles influence your app's look.
+<hr>
 
 ## What is Tailwind JIT and why is it a big deal?
 Tailwind JIT is an experimental "Just-In-Time" compiler added to Tailwind v2.1 that dramatically improves the Developer Experience, unlocks new features, and removes some configuration from your `tailwind.config.js` file.
@@ -84,8 +86,9 @@ And on top of all of that awesomeness, all variants can be combined together to 
 ```html
 <button class="md:dark:disabled:focus:hover:bg-gray-400">
 ``` 
+<hr>
 
-### Conclusion
+## Conclusion
 I've been using Tailwind for years, and I am extremely excited about Tailwind's new JIT engine and what new features the Tailwind Labs team will create using it.
 
 If you have never tried Tailwind or Tailwind's JIT compiler before, there is no better time to start than now.

@@ -23,8 +23,8 @@ Once you run that command and triple check that you wish to delete all of the lo
 git branch | grep feature* | xargs git branch -D
 ```
 BONUS TIP:
-Here's how to delete all local branches except for master.
+Here's how to delete all local branches except for main.
 ```
-git branch | grep -v "master" | xargs git branch -D
+git branch | grep -v "main" | xargs git branch -D
 ```
 You're welcome!

@@ -13,6 +13,7 @@ In this article, I'm going to show you how to deploy an Express API to Vercel as
 If you have an Express API already, you can skip step 2, but for guide completeness, I added a quick Express API that you can simply copy and paste if needed.
  
 Let's get started.
+<hr>
 
 ## 1. Create your Vercel Account
 
@@ -21,6 +22,7 @@ First thing's first, [sign up for Vercel using your GitHub, GitLab, or Bitbucket
 Just by doing this one thing, Vercel will begin to look for `vercel.json` or `now.json` files during any Git pushes to your projects, and if it finds one, it will link the project across services and spin up a CI pipeline for that repo.
 
 This CI pipeline will do an initial deployment and then create [Preview Deployments](https://vercel.com/docs/platform/deployments#preview) for every subsequent commit on every branch.
+<hr>
 
 ## 2. Create a simple Express API (unless you have your own)
 If you haven't yet, [install Node and NPM](/how-to-install-node).
@@ -58,6 +60,8 @@ app.listen(5000, () => {
 })
 ```
 *Technically, you don't have to initialize the server for this to work but chances are any Express API you have will have a server initialization, and this also gives you the ability to easily run `node index` while working with your Express API locally.*
+<hr>
+
 ## 3. Export the Express API
 Now in order for Vercel to turn Express into a serverless function, you have to export the Express instance for Vercel's build process.
 ```js
@@ -76,6 +80,8 @@ app.listen(5000, () => {
 // Export the Express API
 module.exports = app
 ```
+<hr>
+
 ## 4. Add vercel.json configuration
 After exporting Express, we have to tell Vercel what files to build, how to build them, and how to route them using a `vercel.json` file.
 
@@ -118,12 +124,15 @@ Then using Vercel Platform version 2, specify your `index.js` file and the NPM m
     ]
 }
 ```
+<hr>
+
 ## 5. Deploy your Express API
 Finally, push your project up to your source repository, and Vercel will use your `vercel.json` configuration file to build your Express API and deploy it as a serverless function.
 
 Once the build process is complete, feel free to visit the `.vercel.app` URL Vercel provides automatically to see the words "Express on Vercel".
 
 This will confirm your API is up-and-running.
+<hr>
 
 ## Conclusion
 It is important to note that if you are building an API from scratch with Vercel as the deployment target, you don't have to deploy an Express API to get the job done. 

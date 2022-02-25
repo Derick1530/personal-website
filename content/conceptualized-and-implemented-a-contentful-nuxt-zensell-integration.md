@@ -16,6 +16,7 @@ This integration has since given our internal teams the ability to create as man
 In addition to being able to create as many lead gen pages as they need, they are also able to assign ZenSell specific tracking details to the leads that are created through them.
 
 After launch, I held training classes and created video reference material on how to use the new system, and now all lead gen pages and their configurations are successfully managed by other teams using this new Contentful based system.
+<hr>
 
 ## My favorite part
 
