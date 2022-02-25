@@ -1,5 +1,5 @@
 ---
-title: Have I Always Love You (Copeland Cover)
+title: Have I Always Loved You (Copeland Cover)
 description: A cover of the song my wife walked down the aisle to during our wedding.
 updatedAt: 2019-01-11
 type: Song
