@@ -10,7 +10,6 @@ type: Thought
 Artifacts are objects made by a human being that are of some cultural or historical interest.
 
 Typically when someone thinks of "Artifacts", they think of **ancient**  artifacts like pottery or golden gem necklaces, but no one talks enough about **modern** artifacts and how important they truly are... or, rather, how important they become over time.
-<hr>
 
 ### What are modern artifacts?
 
