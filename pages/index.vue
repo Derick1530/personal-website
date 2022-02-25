@@ -20,7 +20,17 @@
         </p>
       </div>
     </div>
-    <ContentLink v-for="(content, index) in contents" :key="index" :content="content" />
+    <select
+      v-model="filter"
+      name="filter"
+      class="py-1.5 pr-6 text-slate-800 mb-4 bg-transparent border-y border-slate-300 focus:border-slate-400 focus:outline-none"
+      aria-label="Default select example"
+    >
+      <option v-for="(type, index) in contentTypes" :key="index" :value="type.value">
+        {{ type.label }}
+      </option>
+    </select>
+    <ContentLink v-for="(content, index) in filteredContents" :key="index" :content="content" />
     <Footer />
   </div>
 </template>
@@ -40,7 +50,28 @@ export default {
       link: `/${content.slug}`
     }))
 
-    return { contents }
+    const types = contents.map(({ type }) => type)
+
+    const dedupedTypes = [...new Set(types)]
+
+    return {
+      contents,
+      contentTypes: [
+        {
+          label: 'All Content',
+          value: 'All'
+        },
+        ...dedupedTypes.map(type => ({
+          label: `${type}s`,
+          value: type
+        }))
+      ]
+    }
+  },
+  data () {
+    return {
+      filter: 'All'
+    }
   },
   head () {
     return {
@@ -52,6 +83,11 @@ export default {
           content: 'Shadow Smith is currently an IndieHacker, Musician, and Staff Frontend Engineer at Openly.'
         }
       ]
+    }
+  },
+  computed: {
+    filteredContents () {
+      return this.filter === 'All' ? this.contents : this.contents.filter(({ type }) => type === this.filter)
     }
   },
   methods: {
