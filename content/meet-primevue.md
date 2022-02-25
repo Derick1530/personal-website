@@ -18,6 +18,7 @@ In the [official press release](https://www.primefaces.org/primevue-1-0-0-final-
 ...and I can confirm that PrimeVue's Component Docs definitely back their claims, but you don't have to just take my word for it, [check it out yourself](https://primefaces.org/primevue/#/).
 
 Now that you're pumped and ready to get your feet wet with PrimeVue, let's set up a Vue tinker project and mess around with a PrimeVue Button component.
+<hr>
 
 ## Setting up your Vue project
 
@@ -50,6 +51,7 @@ npm run serve
 And then navigate to `http://localhost:8080/` or whatever localhost URL is shown in your terminal.
 
 If you see the traditional Vue boilerplate landing page, you're good and ready to move on.
+<hr>
 
 ## Removing boilerplate fluff
 
@@ -70,6 +72,7 @@ export default {
 </script>
 ```
 And just to be tidy, delete the `HelloWorld.vue` component from your `src/components/` directory.
+<hr>
 
 ## Adding CSS dependencies
 
@@ -100,6 +103,7 @@ Yeah, PrimeVue comes out-of-the-box with 9 different free themes.
 You can use one of those 9, hack on the CSS yourself, buy one of 6 of their other premium themes, or purchase a license to use their Prime Designer API to make your own.
 
 **Also, this is a good time to say that I am not sponsored by PrimeTek, and this isn't an affiliate promotion. I'm just letting you know your style customization options.**
+<hr>
 
 ## Setting the stage for playing with PrimeVue components
 
@@ -149,6 +153,8 @@ body {
 }
 </style>
 ```
+<hr>
+
 ## Adding a PrimeVue Button component
 
 Now that you're ready to play with PrimeVue components, add a `<Button />` by doing the following:
@@ -196,6 +202,7 @@ body {
 Now head on over to `http://localhost:8080/` and make fun of how wimpy your button looks!
 
 So next you're going to learn how to use the [PrimeVue Button's props and classes](https://primefaces.org/primevue/#/button) to change that.
+<hr>
 
 ## Adding text to your PrimeVue Button
 
@@ -238,6 +245,7 @@ body {
 Now take a peek at `http://localhost:8080/`.
 
 Your button says `Primary` and looks pretty good, but now let's add an icon!
+<hr>
 
 ## Adding an icon to your PrimeVue Button
 
@@ -279,6 +287,8 @@ body {
 }
 </style>
 ```
+<hr>
+
 ## Changing the PrimeVue Button's color
 
 Now to change your `<Button />`'s color, clone your `<Button label="Primary" icon="pi pi-plus" />` component and change the `label` to `Success` like so.
@@ -354,6 +364,7 @@ body {
 ...and you will see a second green button in your browser labeled "Success".
 
 Now for kicks, change your new `<Button label="Success" icon="pi pi-plus" class="p-button-success" />` component's `icon` attribute to `pi pi-check` to change the icon to a check mark.
+<hr>
 
 ## Changing your PrimeVue theme
 
@@ -384,6 +395,7 @@ new Vue({
 Now head over to your browser and take a look at the fresh new style!
 
 Super easy stuff.
+<hr>
 
 ## Final thoughts
 
