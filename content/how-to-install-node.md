@@ -8,12 +8,14 @@ type: How-To
 In this article, I walk you through installing Node, so you can begin building full web applications with JavaScript.
 
 Installing Node is pretty easy from the Node.js web site, but it is important to understand that Node isn't a "program" like your code editor or anything like that. Node gives you the ability to run JavaScript server-side, and you work with it directly from your terminal.
+<hr>
 
 ## Installation
 1. Download the Node installer from [nodejs.org](https://nodejs.org/en/)
 2. Run the installer you just downloaded
 3. Follow the installer's steps
 4. Restart your computer <br/>*Node will not work if you skip this step*
+<hr>
 
 ## Confirming Node is installed
 1. Open your terminal
