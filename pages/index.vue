@@ -90,11 +90,11 @@ export default {
       contentTypes: [
         {
           label: 'All Content',
-          value: 'All'
+          value: 'ALL'
         },
         ...dedupedTypes.map(type => ({
           label: `${type}s`,
-          value: type
+          value: type.toUpperCase()
         }))
       ]
     }
@@ -118,14 +118,14 @@ export default {
   },
   computed: {
     filteredContents () {
-      return this.filter === 'All' ? this.contents : this.contents.filter(({ type }) => type === this.filter)
+      return this.filter === 'ALL' ? this.contents : this.contents.filter(({ type }) => type.toUpperCase() === this.filter.toUpperCase())
     }
   },
   mounted () {
     const filterParameter = this.getUrlParameter('filter')
 
     if (filterParameter) {
-      this.filter = filterParameter.substring(0, filterParameter.length - 1)
+      this.filter = filterParameter.substring(0, filterParameter.length - 1).toUpperCase()
     }
   },
   methods: {
