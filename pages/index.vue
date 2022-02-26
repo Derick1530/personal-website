@@ -20,16 +20,47 @@
         </p>
       </div>
     </div>
-    <select
-      v-model="filter"
-      name="filter"
-      class="py-1.5 pr-6 text-slate-800 mb-4 bg-transparent border-y border-slate-300 focus:border-slate-400 focus:outline-none"
-      aria-label="Default select example"
-    >
-      <option v-for="(type, index) in contentTypes" :key="index" :value="type.value">
-        {{ type.label }}
-      </option>
-    </select>
+    <div class="inline-flex items-center py-1 px-2 sm:py-2 border border-slate-300 rounded text-slate-500 bg-white mb-4">
+      <svg
+        xmlns="http://www.w3.org/2000/svg"
+        width="14"
+        height="14"
+        viewBox="0 0 24 24"
+        fill="#fafbff"
+        stroke="currentColor"
+        stroke-width="2"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        class="stroke-current mr-2"
+      >
+        <polygon points="22 3 2 3 10 12.46 10 19 14 21 14 12.46 22 3" />
+      </svg>
+      <select
+        v-model="filter"
+        name="filter"
+        class="appearance-none bg-transparent focus:outline-none mr-2"
+        aria-label="Default select example"
+      >
+        <option v-for="(type, index) in contentTypes" :key="index" :value="type.value">
+          {{ type.label }}
+        </option>
+      </select>
+      <svg
+        xmlns="http://www.w3.org/2000/svg"
+        width="14"
+        height="14"
+        viewBox="0 0 24 24"
+        fill="none"
+        stroke="currentColor"
+        stroke-width="2"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        class="stroke-current rotate-90"
+      >
+        <polyline points="16 18 22 12 16 6" />
+        <polyline points="8 6 2 12 8 18" />
+      </svg>
+    </div>
     <ContentLink v-for="(content, index) in filteredContents" :key="index" :content="content" />
     <Footer />
   </div>
