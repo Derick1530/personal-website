@@ -8,6 +8,7 @@ type: How-To
 If you have come across this article, chances are you are aware of
 what SASS is and why you want to use it, but in the off chance you
 didn't, here's what it's all about.
+<hr>
 
 ## What is SASS?
 
@@ -19,15 +20,18 @@ upgrades and programmatic logic based concepts like:
 - Mixins
 - Imports
 - Nested Syntax
+<hr>
 
 ## What is SCSS?
 
 Sassy CSS (SCSS) is an alternate syntax for SASS that enables you to
 write vanilla CSS and have it correctly transpile to correct CSS.
+<hr>
 
 ## What is Transpiling?
 
 Transpiling is the process of taking one language, or pre-processor in this case, and converting it to another.
+<hr>
 
 ## How to setup a SASS/SCSS transpiler
 
