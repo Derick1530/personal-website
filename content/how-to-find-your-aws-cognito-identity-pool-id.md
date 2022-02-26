@@ -6,6 +6,7 @@ type: How-To
 ---
 
 In this post, I am outlining the specific steps needed to locate an AWS Cognito IdentityPoolId in hopes this helps someone who is looking for this answer.
+<hr>
 
 ## Option #1: Through the AWS Console
 
@@ -27,6 +28,7 @@ CognitoCachingCredentialsProvider credentialsProvider = new CognitoCachingCreden
     Regions.US_EAST // Region
 );
 ```
+<hr>
 
 ## Option #2: Through the AWS CLI
 
