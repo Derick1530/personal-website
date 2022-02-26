@@ -106,12 +106,12 @@ export default {
   },
   head () {
     return {
-      title: 'About | Shadow Smith',
+      title: 'Shadow Smith',
       meta: [
         {
           hid: 'description',
           name: 'description',
-          content: 'Shadow Smith is currently an IndieHacker, Musician, and Staff Frontend Engineer at Openly.'
+          content: 'Shadow Smith is currently a Staff Frontend Engineer at Openly, IndieHacker, & Musician.'
         }
       ]
     }
