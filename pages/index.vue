@@ -90,11 +90,24 @@ export default {
       return this.filter === 'All' ? this.contents : this.contents.filter(({ type }) => type === this.filter)
     }
   },
+  mounted () {
+    const filterParameter = this.getUrlParameter('filter')
+
+    if (filterParameter) {
+      this.filter = filterParameter.substring(0, filterParameter.length - 1)
+    }
+  },
   methods: {
     formatDate (date) {
       const options = { timeZone: 'UTC', year: 'numeric', month: 'long', day: 'numeric' }
 
       return new Date(date).toLocaleDateString('en-US', options)
+    },
+    getUrlParameter (name) {
+      name = name.replace(/[[]/, '\\[').replace(/[\]]/, '\\]')
+      const regex = new RegExp('[\\?&]' + name + '=([^&#]*)')
+      const results = regex.exec(location.search)
+      return results === null ? '' : decodeURIComponent(results[1].replace(/\+/g, ' '))
     }
   }
 }
