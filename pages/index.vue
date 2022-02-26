@@ -101,7 +101,7 @@ export default {
   },
   data () {
     return {
-      filter: 'All'
+      filter: 'ALL'
     }
   },
   head () {
