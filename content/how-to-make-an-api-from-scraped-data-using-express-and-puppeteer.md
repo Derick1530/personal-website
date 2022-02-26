@@ -8,6 +8,7 @@ type: How-To
 In this article, I'm going to show you how to make an extremely simple API using Express & Puppeteer that gives a user the ability to fetch a JSON object that includes every Digimon's name from [this website](http://digidb.io/digimon-list/).
 
 So let's get started.
+<hr>
 
 ## Setting up our project using the terminal
 
@@ -49,6 +50,7 @@ And then, open up your project in our code editor.
 ```
 code .
 ```
+<hr>
 
 ## Set up Express
 
@@ -67,6 +69,8 @@ app.listen(7000, function () {
   console.log(`Running on port 7000.`);
 });
 ```
+<hr>
+
 ## Set up Nodemon
 
 Inside of the `scripts` object, add `"dev": "nodemon index"`. 
@@ -93,6 +97,8 @@ Now when you run `npm run dev` in your terminal, Nodemon will watch for your cod
   }
 }
 ```
+<hr>
+
 ## Set up Puppeteer
 
 Whenever you want to scrape data from a website, one of the ways you can do this is by using Puppeteer.
@@ -164,6 +170,7 @@ app.listen(7000, function() {
 });
 ```
 If you see a screenshot that looks like DigiDB, everything is working properly.
+<hr>
 
 ## Scrape Digimon names
 
@@ -199,6 +206,8 @@ app.listen(7000, function() {
   console.log('Running on port 7000.');
 });
 ```
+<hr>
+
 ## Log the Digimon names as a test
 
 Add a simple `console.log(digimonNames);` bit of code just below our last code addition, and you should see a large array of Digimon names printed to your terminal.
@@ -232,6 +241,8 @@ app.listen(7000, function() {
   console.log('Running on port 7000.');
 });
 ```
+<hr>
+
 ## Adding a simple API route
 
 Awesome! 
