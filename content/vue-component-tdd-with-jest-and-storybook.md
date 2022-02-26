@@ -8,12 +8,14 @@ type: How-To
 In this article, I'm going to show you how to build a custom Vue button component in isolation using Test Driven Development (TDD).
 
 Just a heads up, this guide assumes you have used Vue and Jest before and at least know what Test Driven Development is, so keep that in mind if you feel lost.
+<hr>
 
 ## Overview of what you're building
 
 The button component you are going to be building will have a default and primary style, take 2 props, and emit a click event—all of which will have tests written **before** each of the component features are even created.
 
 Let's get started.
+<hr>
 
 ## Setting up your Vue project
 
@@ -79,6 +81,7 @@ Save this as a preset for future projects?
 ```
 
 And once you have answered that question, creation of your `storybook-tdd` project will begin.
+<hr>
 
 ## Adding Storybook
 
@@ -90,6 +93,7 @@ So let's move into our Vue project and add Storybook with this command.
 ```
 cd storybook-tdd && npx -p @storybook/cli sb init --type vue
 ```
+<hr>
 
 ## Setting up your TDDButton component TDD environment
 
@@ -145,6 +149,7 @@ Once you run that command, your Storybook sandbox should automatically open, and
 However, everything is and should be blank right now, but you are going to be fleshing all of this out next.
 
 Let's get started.
+<hr>
 
 ## Writing your 1st test
 
@@ -258,6 +263,7 @@ Now if you run `npm run test:unit` again, you will see it pass.
 Congratulations! You just completed your first Vue component TDD feedback loop!
 
 Now keep going.
+<hr>
 
 ## Testing if your TDDButton component is a button
 
@@ -302,6 +308,7 @@ export default {
 </script>
 ```
 Now if you run `npm run test:unit`, you will see it pass.
+<hr>
 
 ## Writing a label prop test
 
@@ -378,6 +385,7 @@ export default {
 </script>
 ```
 Now if you run `npm run test:unit`, it will pass.
+<hr>
 
 ## Updating our Storybook sandbox
 
@@ -404,6 +412,7 @@ export const Default = () => ({
 })
 ```
 Once you do this, you will see that the text "Default" has been added to your Default style'd `TDDButton` in your Storybook sandbox.
+<hr>
 
 ## Writing a default button styles test
 
@@ -475,6 +484,7 @@ export default {
 </style>
 ```
 Now run `npm run test:unit` to see the test pass and then run `npm run storybook` to see your `TDDButton` component's updated default styles.
+<hr>
 
 ## Writing a primary styles test
 
@@ -562,6 +572,7 @@ export default {
 Once you're done with that, run `npm run test:unit` to see the test pass, but if you run `npm run storybook` to see your `TDDButton` component's primary styles, you will notice that nothing has changed.
 
 Let's fix that.
+<hr>
 
 ## Adding your TDDButton's primary style to Storybook
 
@@ -615,6 +626,7 @@ export const Primary = () => ({
 });
 ```
 Once you have finished this, run `npm run storybook`, and you will see a new "Story" in the left sidebar called `Primary` that has a version of your `TDDButton` component with your primary styles.
+<hr>
 
 ## Writing a click listener test
 
@@ -706,6 +718,7 @@ export default {
 Now if you run `npm run test:unit`, you will see that this test passes.
 
 Congratulations! You have learned the basics of building custom Vue components in isolation using Test Driven Development (TDD).
+<hr>
 
 ## Conclusion
 
