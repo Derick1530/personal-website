@@ -3,7 +3,7 @@ title: A story writing process by Ira Glass
 description: An instantly actionable method of synthesizing information into a story.
 updatedAt: 2022-03-02
 type: Explainer
-buttonText: Scaling the Creative Process
+buttonText: Scaling the creative process
 externalLink: https://youtu.be/s9tlejMptdo
 ---
 
