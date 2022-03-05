@@ -47,7 +47,7 @@ module.exports = async (req, res) => {
         h1 {
           margin: 0;
           font-family: 'Oswald', sans-serif;
-          font-size: 120px;
+          font-size: 140px;
           line-height: 1.2;
           position: absolute;
           top: 370px;
