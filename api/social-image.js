@@ -3,8 +3,10 @@
 // 2. type
 // 3. date
 
-module.exports = (req, res) => {
-  const hyperTextMarkup = `<!DOCTYPE html>
+import puppeteer from 'puppeteer-serverless'
+
+module.exports = async (req, res) => {
+  const html = `<!DOCTYPE html>
   <html>
     <head>
       <meta charset="utf-8">
@@ -18,10 +20,6 @@ module.exports = (req, res) => {
           margin: 0;
           background-color: #fafbff;
           color: #1e293b;
-          width: 2480px;
-          height: 1170px;
-          display: flex;
-          align-items: center;
         }
 
         .logo {
@@ -45,10 +43,14 @@ module.exports = (req, res) => {
         }
 
         h1 {
-          margin: 0 60px;
+          margin: 0;
           font-family: 'Oswald', sans-serif;
-          font-size: 140px;
+          font-size: 120px;
           line-height: 1.2;
+          position: absolute;
+          top: 370px;
+          left: 60px;
+          right: 60px;
         }
 
         p {
@@ -69,7 +71,7 @@ module.exports = (req, res) => {
           height: 200px;
           width: 200px;
           border-radius: 9999px;
-          border: 15px solid #1e293b;
+          border: 10px solid #1e293b;
           margin-right: 60px;
         }
 
@@ -112,7 +114,17 @@ module.exports = (req, res) => {
     </body>
   </html>`
 
-  return res.send(hyperTextMarkup)
+  const browser = await puppeteer.launch()
+  const page = await browser.newPage()
+  await page.setViewport({ width: 2048, height: 1170 })
+  await page.setContent(html)
+  const file = await page.screenshot({ type: 'png' })
+
+  res.statusCode = 200
+  res.setHeader('Content-Type', 'image/png')
+  res.setHeader('Cache-Control', 'public, immutable, no-transform, s-maxage=31536000, max-age=31536000')
+
+  return res.end(file)
 }
 
 function formatDate (date) {
