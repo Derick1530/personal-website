@@ -2,7 +2,7 @@
 title: Published @openlyinc/get-vercel-deployment-url NPM package
 description: My first Open Source NPM package under Openly, Inc.
 updatedAt: 2021-05-26
-type: Win
+type: Accomplishment
 ---
 
 At Openly, I am responsible for setting up and maintaining the pipelines for all of our frontend applications, and of course with me being all about JAMStack, I leverage [Vercel](https://vercel.com) anywhere I can.
