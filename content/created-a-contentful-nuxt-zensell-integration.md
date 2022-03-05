@@ -1,5 +1,5 @@
 ---
-title: Conceptualized and implemented a dynamic lead gen page creation system using Contentful
+title: Created a dynamic lead page creation system using Contentful
 description: I created a new way to get leads from the Openly Public Website into ZenSell using Contentful and a couple serverless functions.
 updatedAt: 2020-09-17
 type: Win
