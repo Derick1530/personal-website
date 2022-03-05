@@ -2,7 +2,7 @@
 title: Created a dynamic lead page creation system using Contentful
 description: I created a new way to get leads from the Openly Public Website into ZenSell using Contentful and a couple serverless functions.
 updatedAt: 2020-09-17
-type: Win
+type: Accomplishment
 ---
 
 Long ago when the Openly Public Website was a [SquareSpace](https://www.squarespace.com/) website, Openly funneled leads into [ZenSell](https://www.zendesk.com/sell/) using an integration between [Jotform](https://www.jotform.com/), [Zapier](https://zapier.com/), and ZenSell.
