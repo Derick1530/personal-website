@@ -3,7 +3,8 @@
 // 2. type
 // 3. date
 
-import puppeteer from 'puppeteer-serverless'
+import chromium from 'chrome-aws-lambda'
+import puppeteer from 'puppeteer-core'
 
 module.exports = async (req, res) => {
   const html = `<!DOCTYPE html>
@@ -114,7 +115,24 @@ module.exports = async (req, res) => {
     </body>
   </html>`
 
-  const browser = await puppeteer.launch()
+  const options = process.env.AWS_REGION
+    ? {
+        args: chromium.args,
+        executablePath: await chromium.executablePath,
+        headless: chromium.headless
+      }
+    : {
+        args: [],
+        executablePath:
+          process.platform === 'win32'
+            ? 'C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe'
+            : process.platform === 'linux'
+              ? '/usr/bin/google-chrome'
+              : '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome'
+      }
+
+  const browser = await puppeteer.launch(options)
+
   const page = await browser.newPage()
   await page.setViewport({ width: 2048, height: 1170 })
   await page.setContent(html)
