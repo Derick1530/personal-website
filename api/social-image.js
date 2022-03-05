@@ -31,10 +31,10 @@ module.exports = async (req, res) => {
         }
 
         .type {
-          font-size: 80px;
+          font-size: 100px;
           margin: 0;
           display: inline-block;
-          padding: 10px 30px;
+          padding: 30px 60px;
           border-radius: 15px;
           background-color: #1e293b;
           color: #fff;
