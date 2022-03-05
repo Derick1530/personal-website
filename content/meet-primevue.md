@@ -2,7 +2,7 @@
 title: Love Vuetify? Meet PrimeVue, a powerful new Vue UI library
 description: Follow along to learn first hand the power of PrimeVue.
 updatedAt: 2020-01-22
-type: Explainer
+type: Explanation
 ---
 
 Every Vue developer knows *of* [Vuetify](https://vuetifyjs.com/en/), the full-featured Vue UI library based on Google's [Material Design Guidelines](https://material.io/design/guidelines-overview/), but this article isn't about it at all. 

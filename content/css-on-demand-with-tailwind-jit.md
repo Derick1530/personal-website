@@ -2,7 +2,7 @@
 title: CSS On-Demand with Tailwind JIT
 description: A simple introduction to Tailwind's Just-In-Time compiler.
 updatedAt: 2021-04-04
-type: Explainer
+type: Explanation
 ---
 
 No matter how hard some of us try and avoid it, as Software Engineers, we have all had to write and maintain CSS at some point in our careers.

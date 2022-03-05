@@ -2,7 +2,7 @@
 title: Tailwind CSS Utility Classes | The ultimate electrons for Atomic Design
 description: My thoughts regarding Tailwind's rightful place in Atomic Design methodology
 updatedAt: 2021-11-05
-type: Explainer
+type: Explanation
 ---
 
 ![Tailwind CSS Utility Class as Electron](/img/tailwind-css-utility-classes-the-ultimate-electrons-for-atomic-design/tailwind-css-utility-class-electron.png "Tailwind CSS Utility Class as Electron")
