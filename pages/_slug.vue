@@ -76,6 +76,11 @@ export default {
           hid: 'description',
           name: 'description',
           content: this.content.description
+        },
+        {
+          hid: 'og:image',
+          property: 'og:image',
+          content: `https://shadowsmith.com/api/social-image?title=${this.content.title}&type=${this.content.type}&date=${this.content.updatedAt}`
         }
       ]
     }
