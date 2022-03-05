@@ -20,7 +20,8 @@
     "@nuxt/content": "^1.14.0",
     "@tailwindcss/typography": "^0.5.0",
     "core-js": "^3.15.1",
-    "nuxt": "^2.15.7"
+    "nuxt": "^2.15.7",
+    "puppeteer-serverless": "^2.0.0"
   },
   "devDependencies": {
     "@babel/eslint-parser": "^7.14.7",
