@@ -80,7 +80,7 @@ export default {
         {
           hid: 'og:image',
           property: 'og:image',
-          content: `/api/social-image?title=${this.content.title}&type=${this.content.type}`
+          content: `/api/social-image?title=${this.content.title}`
         }
       ]
     }
