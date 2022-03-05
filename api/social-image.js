@@ -31,7 +31,7 @@ module.exports = async (req, res) => {
         }
 
         .type {
-          font-size: 50px;
+          font-size: 80px;
           margin: 0;
           display: inline-block;
           padding: 10px 30px;
@@ -58,8 +58,8 @@ module.exports = async (req, res) => {
         .avatar {
           background-image: url('https://pbs.twimg.com/profile_images/1402045149673308161/vXFA16vI_400x400.jpg');
           background-size: cover;
-          height: 200px;
-          width: 200px;
+          height: 220px;
+          width: 220px;
           border-radius: 9999px;
           border: 10px solid #1e293b;
           position: absolute;
