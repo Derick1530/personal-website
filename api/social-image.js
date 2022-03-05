@@ -40,8 +40,8 @@ module.exports = async (req, res) => {
           color: #fff;
           font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
           position: absolute;
-          top: 60px;
-          right: 60px;
+          bottom: 60px;
+          left: 60px;
         }
 
         h1 {
@@ -55,14 +55,6 @@ module.exports = async (req, res) => {
           right: 60px;
         }
 
-        .bottom-wrapper {
-          position: absolute;
-          bottom: 60px;
-          left: 60px;
-          display: flex;
-          align-items: center;
-        }
-
         .avatar {
           background-image: url('https://pbs.twimg.com/profile_images/1402045149673308161/vXFA16vI_400x400.jpg');
           background-size: cover;
@@ -70,21 +62,9 @@ module.exports = async (req, res) => {
           width: 200px;
           border-radius: 9999px;
           border: 10px solid #1e293b;
-          margin-right: 60px;
-        }
-
-        .twitter {
-          font-size: 50px;
-          font-family: 'Roboto', sans-serif;
-          font-weight: 500;
-          margin: 0 0 10px 0;
-        }
-
-        .date {
-          font-size: 40px;
-          color: #4b5563;
-          font-family: 'Roboto', sans-serif;
-          margin: 0;
+          position: absolute;
+          top: 60px;
+          right: 60px;
         }
       </style>
     </head>
@@ -102,15 +82,9 @@ module.exports = async (req, res) => {
         <path d="M2.7 125.4C-0.0999979 127.5 0.600002 129.3 3.5 127.4C4.9 126.5 6 125.4 6 124.9C6 123.6 4.8 123.8 2.7 125.4Z" fill="#1e293b" />
         <path d="M275.9 125.9C272.8 128.4 273.8 129.4 277 127C278.4 126 279.2 124.9 278.9 124.5C278.6 124.2 277.2 124.8 275.9 125.9Z" fill="#1e293b" />
       </svg>
-      <p class="type">${req.query.type}</p>
+      <div class="avatar"></div>
       <h1>${req.query.title}</h1>
-      <div class="bottom-wrapper">
-        <div class="avatar"></div>
-        <div>
-          <p class="twitter">@heyshadowsmith</p>
-          <p class="date">${formatDate(req.query.date)}</p>
-        </div>
-      </div>
+      <p class="type">${req.query.type}</p>
     </body>
   </html>`
 
@@ -142,10 +116,4 @@ module.exports = async (req, res) => {
   res.setHeader('Cache-Control', 'public, immutable, no-transform, s-maxage=31536000, max-age=31536000')
 
   return res.end(file)
-}
-
-function formatDate (date) {
-  const options = { timeZone: 'UTC', year: 'numeric', month: 'long', day: 'numeric' }
-
-  return new Date(date).toLocaleDateString('en-US', options)
 }
