@@ -50,20 +50,8 @@ module.exports = async (req, res) => {
           font-size: 140px;
           line-height: 1.2;
           position: absolute;
-          top: 370px;
+          top: 400px;
           left: 60px;
-          right: 60px;
-        }
-
-        .avatar {
-          background-image: url('https://pbs.twimg.com/profile_images/1402045149673308161/vXFA16vI_400x400.jpg');
-          background-size: cover;
-          height: 220px;
-          width: 220px;
-          border-radius: 9999px;
-          border: 10px solid #1e293b;
-          position: absolute;
-          top: 60px;
           right: 60px;
         }
       </style>
@@ -82,9 +70,8 @@ module.exports = async (req, res) => {
         <path d="M2.7 125.4C-0.0999979 127.5 0.600002 129.3 3.5 127.4C4.9 126.5 6 125.4 6 124.9C6 123.6 4.8 123.8 2.7 125.4Z" fill="#1e293b" />
         <path d="M275.9 125.9C272.8 128.4 273.8 129.4 277 127C278.4 126 279.2 124.9 278.9 124.5C278.6 124.2 277.2 124.8 275.9 125.9Z" fill="#1e293b" />
       </svg>
-      <div class="avatar"></div>
       <h1>${req.query.title}</h1>
-      <p class="type">${req.query.type}</p>
+      <p class="type">Check out this ${req.query.type}</p>
     </body>
   </html>`
 
