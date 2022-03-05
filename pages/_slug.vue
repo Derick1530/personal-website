@@ -80,7 +80,7 @@ export default {
         {
           hid: 'og:image',
           property: 'og:image',
-          content: `https://shadowsmith.com/api/social-image?title=${this.content.title}&type=${this.content.type}&date=${this.content.updatedAt}`
+          content: `/api/social-image?title=${this.content.title}&type=${this.content.type}&date=${this.content.updatedAt}`
         }
       ]
     }

@@ -31,6 +31,7 @@ module.exports = async (req, res) => {
         }
 
         .type {
+          font-size: 50px;
           margin: 0;
           display: inline-block;
           padding: 10px 30px;
@@ -54,10 +55,6 @@ module.exports = async (req, res) => {
           right: 60px;
         }
 
-        p {
-          font-size: 60px;
-        }
-
         .bottom-wrapper {
           position: absolute;
           bottom: 60px;
@@ -77,12 +74,14 @@ module.exports = async (req, res) => {
         }
 
         .twitter {
+          font-size: 50px;
           font-family: 'Roboto', sans-serif;
           font-weight: 500;
           margin: 0 0 10px 0;
         }
 
         .date {
+          font-size: 40px;
           color: #4b5563;
           font-family: 'Roboto', sans-serif;
           margin: 0;
