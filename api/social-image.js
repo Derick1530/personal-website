@@ -95,7 +95,7 @@ module.exports = async (req, res) => {
 
   const page = await browser.newPage()
   await page.setViewport({ width: 2400, height: 1260 })
-  await page.setContent(html)
+  await page.setContent(html, { waitUntil: 'networkidle0' })
   const file = await page.screenshot({ type: 'png' })
 
   res.statusCode = 200
