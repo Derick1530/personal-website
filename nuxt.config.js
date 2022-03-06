@@ -36,7 +36,8 @@ export default {
     // https://go.nuxtjs.dev/tailwindcss
     '@nuxtjs/tailwindcss',
     '@nuxtjs/color-mode',
-    'nuxt-font-loader'
+    'nuxt-font-loader',
+    '@nuxtjs/google-analytics'
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
@@ -66,5 +67,9 @@ export default {
     url: 'https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap',
     prefetch: true,
     preconnect: true
+  },
+
+  googleAnalytics: {
+    id: 'G-6NT0DKRCP2'
   }
 }
