@@ -24,14 +24,14 @@ module.exports = async (req, res) => {
         }
 
         .logo {
-          height: 260px;
+          height: 220px;
           position: absolute;
           top: 60px;
           left: 60px;
         }
 
         .type {
-          font-size: 80px;
+          font-size: 100px;
           margin: 0;
           display: inline-block;
           padding: 30px 60px;
@@ -50,7 +50,7 @@ module.exports = async (req, res) => {
           font-size: 160px;
           line-height: 1.2;
           position: absolute;
-          top: 400px;
+          top: 375px;
           left: 60px;
           right: 60px;
         }
