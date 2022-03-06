@@ -63,7 +63,7 @@ export default {
   },
 
   fontLoader: {
-    url: 'https://fonts.googleapis.com/css2?family=Oswald&display=swap',
+    url: 'https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap',
     prefetch: true,
     preconnect: true
   }
