@@ -94,7 +94,7 @@ module.exports = async (req, res) => {
   const browser = await puppeteer.launch(options)
 
   const page = await browser.newPage()
-  await page.setViewport({ width: 2400, height: 1260 })
+  await page.setViewport({ width: req.query.width, height: req.query.height })
   await page.setContent(html, { waitUntil: 'networkidle0' })
   const file = await page.screenshot({ type: 'png' })
 
