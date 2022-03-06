@@ -35,7 +35,7 @@ module.exports = async (req, res) => {
           margin: 0;
           display: inline-block;
           padding: 30px 60px;
-          border-radius: 15px;
+          border-radius: 20px;
           background-color: #1e293b;
           color: #fff;
           font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
