@@ -1,7 +1,8 @@
 // Query params:
 // 1. title
 // 2. type
-// 3. date
+// 3. width
+// 4. height
 
 import chromium from 'chrome-aws-lambda'
 import puppeteer from 'puppeteer-core'
@@ -15,7 +16,7 @@ module.exports = async (req, res) => {
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <link rel="preconnect" href="https://fonts.googleapis.com">
       <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-      <link href="https://fonts.googleapis.com/css2?family=Oswald&family=Roboto:wght@400;500&display=swap" rel="stylesheet">
+      <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@500&family=Roboto:wght@400;500&display=swap" rel="stylesheet">
       <style>
         body {
           margin: 0;
@@ -48,6 +49,7 @@ module.exports = async (req, res) => {
           margin: 0;
           font-family: 'Oswald', sans-serif;
           font-size: 160px;
+          font-weight: 500;
           line-height: 1.2;
           position: absolute;
           top: 375px;
