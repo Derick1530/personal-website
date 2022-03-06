@@ -30,7 +30,7 @@ module.exports = async (req, res) => {
           left: 60px;
         }
 
-        .type {
+        .call-to-action {
           font-size: 100px;
           margin: 0;
           display: inline-block;
@@ -71,7 +71,7 @@ module.exports = async (req, res) => {
         <path d="M275.9 125.9C272.8 128.4 273.8 129.4 277 127C278.4 126 279.2 124.9 278.9 124.5C278.6 124.2 277.2 124.8 275.9 125.9Z" fill="#1e293b" />
       </svg>
       <h1>${req.query.title}</h1>
-      <p class="type">Check out this ${req.query.type.toLowerCase()}</p>
+      <p class="call-to-action">Check out this ${req.query.type.toLowerCase()}</p>
     </body>
   </html>`
 
