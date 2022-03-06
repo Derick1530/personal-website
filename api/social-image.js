@@ -47,7 +47,7 @@ module.exports = async (req, res) => {
         h1 {
           margin: 0;
           font-family: 'Oswald', sans-serif;
-          font-size: 140px;
+          font-size: 160px;
           line-height: 1.2;
           position: absolute;
           top: 400px;
@@ -71,7 +71,7 @@ module.exports = async (req, res) => {
         <path d="M275.9 125.9C272.8 128.4 273.8 129.4 277 127C278.4 126 279.2 124.9 278.9 124.5C278.6 124.2 277.2 124.8 275.9 125.9Z" fill="#1e293b" />
       </svg>
       <h1>${req.query.title}</h1>
-      <p class="type">Check out this ${req.query.type}</p>
+      <p class="type">Check out this ${req.query.type.toLowerCase()}</p>
     </body>
   </html>`
 
