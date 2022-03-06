@@ -70,6 +70,6 @@ export default {
   },
 
   googleAnalytics: {
-    id: 'G-6NT0DKRCP2'
+    id: 'UA-222158192-1'
   }
 }
