@@ -31,7 +31,7 @@ module.exports = async (req, res) => {
         }
 
         .type {
-          font-size: 100px;
+          font-size: 80px;
           margin: 0;
           display: inline-block;
           padding: 30px 60px;
