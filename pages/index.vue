@@ -1,7 +1,7 @@
 <template>
   <div>
     <h1 class="text-4xl mb-3 lg:mb-6 lg:text-6xl">
-      Staff Engineer, IndieHacker, & Musician
+      Software Engineer, IndieHacker, & Musician
     </h1>
     <p class="text-xl lg:text-2xl">
       I'm currently at <a
