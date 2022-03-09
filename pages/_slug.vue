@@ -1,5 +1,22 @@
 <template>
   <div>
+    <div v-if="content.readingTime.minutes > 0 && !content.track" class="flex items-center mb-4">
+      <svg
+        xmlns="http://www.w3.org/2000/svg"
+        width="18"
+        height="18"
+        viewBox="0 0 24 24"
+        fill="none"
+        stroke="currentColor"
+        stroke-width="2"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        class="mr-1"
+      ><circle cx="12" cy="12" r="10" /><polyline points="12 6 12 12 16 14" /></svg>
+      <p class="mb-0">
+        {{ content.readingTime.text }}
+      </p>
+    </div>
     <h1 class="text-4xl mb-3 lg:mb-6 lg:text-6xl">
       {{ content.title }}
     </h1>
