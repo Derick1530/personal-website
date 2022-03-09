@@ -46,6 +46,16 @@ export default {
     '@nuxt/content'
   ],
 
+  hooks: {
+    'content:file:beforeInsert': (document) => {
+      if (document.extension === '.md') {
+        const stats = require('reading-time')(document.text)
+
+        document.readingTime = stats
+      }
+    }
+  },
+
   // Content module configuration: https://go.nuxtjs.dev/config-content
   content: {
     markdown: {
