@@ -11,12 +11,13 @@ This integration was a largely manual process and wouldn't scale as the business
 
 While we were rebuilding the new [Openly Public Website](https://openly.com) from the ground up using [Nuxt](https://nuxtjs.org/), I replaced the old integration with one that leverages [Contentful](https://www.contentful.com/), Nuxt, a custom Contentful UI extension, 2 Serverless Functions, and ZenSell.
 
-This integration has since given our internal teams the ability to create as many lead gen pages as they need, all on their own. 
+This integration has since given our internal teams the ability to create as many lead gen pages as they need, all on their own.
 
 In addition to being able to create as many lead gen pages as they need, they are also able to assign ZenSell specific tracking details to the leads that are created through them.
 
 After launch, I held training classes and created video reference material on how to use the new system, and now all lead gen pages and their configurations are successfully managed by other teams using this new Contentful based system.
-<hr>
+
+---
 
 ## My favorite part
 

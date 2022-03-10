@@ -9,7 +9,7 @@ A callback is a function that waits for another function to finish executing bef
 
 Functions are objects in JavaScript. Because of this, functions can take other functions as arguments, and functions can also be returned by other functions. When a function takes another function as an argument or returns a function as a result, that function is called a **higher-order function**. Any function that is passed as an argument is called a **callback function**.
 
-<hr>
+---
 
 ## Why are callbacks needed?
 
@@ -52,13 +52,13 @@ Even though we called the `hello()` function first, we logged the result of the 
 
 It's not that JavaScript didn't execute our functions in the order we wanted. It absolutely did. It just didn't wait for a response from the `hello()` function before executing the `name()` function, and since the `name()` function executes faster, it was logged to the console first.
 
-<hr>
+---
 
 ## Why explain this?
 
 Because in order to build more complex processes, you can't just call multiple functions hope they execute exactly when you want them to. You need to ensure certain blocks of code don't execute until other blocks have already finished.
 
-<hr>
+---
 
 ## How to create a Callback
 

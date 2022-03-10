@@ -9,14 +9,15 @@ type: Thought
 
 Artifacts are objects made by a human being that are of some cultural or historical interest.
 
-Typically when someone thinks of "Artifacts", they think of **ancient**  artifacts like pottery or golden gem necklaces, but no one talks enough about **modern** artifacts and how important they truly are... or, rather, how important they become over time.
+Typically when someone thinks of "Artifacts", they think of **ancient** artifacts like pottery or golden gem necklaces, but no one talks enough about **modern** artifacts and how important they truly are... or, rather, how important they become over time.
 
 ### What are modern artifacts?
 
 Simply put, **modern** artifacts are anything created today that will be discovered at some point in the future by someone else.
 
 For instance, this article you're reading is a modern digital artifact, and thousands of years ago when an Egyptian craftsman was making a vase, that work of art was a modern physical artifact at that time.
-<hr>
+
+---
 
 ## Why are artifacts important?
 
@@ -27,7 +28,8 @@ When you are no longer around to tell your story, your artifacts are the only th
 This all depends on what you decide to create, or what can still be discovered through the sands of time.
 
 So this leads me to the toughest question around modern artifacts that I feel is not asked enough...
-<hr>
+
+---
 
 ## Do you own your artifacts?
 
@@ -36,7 +38,8 @@ Unless you journal in a way that ultimately creates a physical book of your thou
 Chances are you have followed in the footsteps of the increasingly digitized world, creating, and publishing the majority of your thoughts and memories on someone elses' servers hoping they never have to delete it.
 
 If you have ever accidentally deleted a file with no way to recover it, you know how fragile digital artifacts are. The format is simply not material enough to pass information down through generations quite like a physical book or photo album can.
-<hr>
+
+---
 
 ## So what should we do?
 

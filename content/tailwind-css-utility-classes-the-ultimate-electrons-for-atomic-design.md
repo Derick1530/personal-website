@@ -7,7 +7,7 @@ type: Explanation
 
 ![Tailwind CSS Utility Class as Electron](/img/tailwind-css-utility-classes-the-ultimate-electrons-for-atomic-design/tailwind-css-utility-class-electron.png "Tailwind CSS Utility Class as Electron")
 
-<hr>
+---
 
 In this article, I'm going to explain how I believe styles, but more specifically [Tailwind](https://tailwindcss.com/)'s generated CSS utility classes, can fit into [Atomic Design](https://bradfrost.com/blog/post/atomic-web-design/) methodology if we extend Brad Frost's initial analogy by adding electrons.
 
@@ -25,7 +25,7 @@ A UI component library is a centralized collection of UI components used to enfo
 **Atomic Design**<br>
 Atomic Design is a methodology created by Brad Frost that suggests that highly effective design systems follow a structure similar to that of Chemistry where entities of a design system grow in complexity from atoms, to molecules, organisms, templates, and finally pages.
 
-<hr>
+---
 
 ## Style as electrons to atoms
 
@@ -35,7 +35,7 @@ The visual treatment added to a design system's atom directly influences its sha
 
 Therefore, styles as electrons to atoms in a design system feels like an acceptable extension of the Atomic Design methodology.
 
-<hr>
+---
 
 ## Why Tailwind's CSS utility classes are the ultimate electrons
 
