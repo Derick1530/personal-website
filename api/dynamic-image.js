@@ -8,6 +8,25 @@ import chromium from 'chrome-aws-lambda'
 import puppeteer from 'puppeteer-core'
 
 module.exports = async (req, res) => {
+  let readingTime = `<div class="readingTime">
+  <svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="65"
+    height="65"
+    viewBox="0 0 24 24"
+    fill="none"
+    stroke="currentColor"
+    stroke-width="2"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  ><circle cx="12" cy="12" r="10" /><polyline points="12 6 12 12 16 14" /></svg>
+  <p>${req.query.readingTime}</p>
+</div>`
+
+  if (req.query.readingTime === '0 min read' || req.query.type === 'Song') {
+    readingTime = ''
+  }
+
   const html = `<!DOCTYPE html>
   <html>
     <head>
@@ -45,16 +64,36 @@ module.exports = async (req, res) => {
           left: 60px;
         }
 
+        .content {
+          position: absolute;
+          top: 375px;
+          left: 60px;
+          right: 60px;
+        }
+
         h1 {
           margin: 0;
           font-family: 'Oswald', sans-serif;
           font-size: 160px;
           font-weight: 500;
           line-height: 1.2;
-          position: absolute;
-          top: 375px;
-          left: 60px;
-          right: 60px;
+        }
+
+        .readingTime {
+          margin-top: 40px;
+          display: flex;
+          align-items: center;
+          font-family: 'Roboto', sans-serif;
+          font-size: 80px;
+          color: #4b5563;
+        }
+
+        .readingTime svg {
+          margin-right: 20px;
+        }
+
+        .readingTime p {
+          margin: 0;
         }
       </style>
     </head>
@@ -72,7 +111,10 @@ module.exports = async (req, res) => {
         <path d="M2.7 125.4C-0.0999979 127.5 0.600002 129.3 3.5 127.4C4.9 126.5 6 125.4 6 124.9C6 123.6 4.8 123.8 2.7 125.4Z" fill="#1e293b" />
         <path d="M275.9 125.9C272.8 128.4 273.8 129.4 277 127C278.4 126 279.2 124.9 278.9 124.5C278.6 124.2 277.2 124.8 275.9 125.9Z" fill="#1e293b" />
       </svg>
-      <h1>${req.query.title}</h1>
+      <div class="content">
+        <h1>${req.query.title}</h1>
+        ${readingTime}
+      </div>
       <p class="call-to-action">Check out this ${req.query.type.toLowerCase()}</p>
     </body>
   </html>`
