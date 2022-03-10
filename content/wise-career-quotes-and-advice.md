@@ -14,3 +14,4 @@ type: Thought
 7. The best time to create a portfolio site was when you started your career, the next best time is today.
 8. A client will become a friend faster than a friend will become a client.
 9. "People think you need to be inspired to write. No, you write in order to get inspired." - Paul Jarvis
+10. Trust takes years to build, seconds to break, and forever to repair.
