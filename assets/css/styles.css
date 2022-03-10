@@ -53,3 +53,13 @@ img { @apply rounded-md border; }
 strong { @apply text-slate-800; }
 
 audio { @apply w-full; }
+
+mark { background: hsl(38deg 100% 50% / 30%); }
+
+::selection {
+  background: hsl(38deg 100% 50% / 30%);
+}
+
+::-moz-selection {
+  background: hsl(38deg 100% 50% / 30%);
+}
