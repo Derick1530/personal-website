@@ -33,6 +33,6 @@ export default {
 
 .logo:hover {
   filter: blur(2px);
-  opacity: 0.5;
+  opacity: 0.3;
 }
 </style>
