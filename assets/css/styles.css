@@ -65,14 +65,13 @@ mark { background: hsl(38deg 100% 50% / 30%); }
 }
 
 .shadow-animation {
+  display: none;
   animation: Move 3s ease-in-out infinite;
   position: absolute;
   top: -175px;
   right: 0;
   filter: blur(10px);
   opacity: 0.3;
-
-  /* transform: skew(30deg, 20deg); */
 }
 
 @keyframes Move {
