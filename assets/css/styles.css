@@ -32,7 +32,9 @@ ol li { @apply mb-1; }
 
 blockquote { @apply italic pl-4 mb-4 border-l-4 border-slate-800; }
 
-hr { @apply my-10; }
+hr {
+  @apply my-10 border-t border-slate-800 opacity-25;
+}
 
 p code,
 li code,
@@ -64,35 +66,16 @@ mark { background: hsl(38deg 100% 50% / 30%); }
   background: hsl(38deg 100% 50% / 30%);
 }
 
-.shadow-animation {
-  display: none;
-  animation: Move 3s ease-in-out infinite;
-  position: absolute;
-  top: -175px;
+.shadow {
+  position: fixed;
+  top: -50px;
   right: 0;
-  filter: blur(10px);
+  filter: blur(8px);
   opacity: 0.3;
 }
 
-@keyframes Move {
-  0% {
-    top: -175px;
-    right: 0;
-  }
-
-  50% {
-    top: -173px;
-    right: 6px;
-  }
-
-  100% {
-    top: -175px;
-    right: 0;
-  }
-}
-
 @media screen and (max-width: 1440px) {
-  .shadow-animation {
+  .shadow {
     display: none;
   }
 }
