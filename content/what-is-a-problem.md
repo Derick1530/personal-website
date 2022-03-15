@@ -5,9 +5,7 @@ updatedAt: 2022-03-14
 type: Thought
 ---
 
-I feel it is important to declutter the definition of what a "problem" is so that frameworks for problem categorization, prioritization, and resolution can be created from a solid foundation.
-
-With this in mind, I have been dissatisfied with every definition of the term "problem" I have come across, so I wrote my own.
+I have been dissatisfied with every definition of the term "problem" I have come across, so I wrote my own.
 
 ---
 
