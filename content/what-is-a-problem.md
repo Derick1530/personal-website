@@ -1,6 +1,6 @@
 ---
 title: What is a problem?
-description: My definition of the term "problem".
+description: My definition of the term "problem"
 updatedAt: 2022-03-14
 type: Thought
 ---
