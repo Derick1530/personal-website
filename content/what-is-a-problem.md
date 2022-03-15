@@ -5,7 +5,7 @@ updatedAt: 2022-03-14
 type: Thought
 ---
 
-I have been largely dissatisfied with every definition of the term "problem" I could easily find on the internet, so I decided to try and define it on my own.
+I have been dissatisfied with every definition of the term "problem" I have been able to find on the internet, so I decided to try and write my own.
 
 Here's what I've come up with:
 
