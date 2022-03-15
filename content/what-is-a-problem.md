@@ -1,17 +1,17 @@
 ---
 title: What is a problem?
-description: My definition of the term "problem"
+description: My definition of the word "problem"
 updatedAt: 2022-03-14
 type: Thought
 ---
 
-I have been dissatisfied with every definition of the term "problem" I have come across, so I wrote my own.
+I have been dissatisfied with every definition of the word "problem" I have come across, so I wrote my own.
 
 ---
 
 ## My definition
 
-> A problem is a situation where an obstacle adds friction to the transition of an entity from its current state to a desired one.
+> A problem is a situation where an obstacle applies friction to the transition of an entity from its current state to a desired one.
 
 This definition is compelling because it identifies the 6 components a situation needs to be categorized as a problem:
 
