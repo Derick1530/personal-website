@@ -25,7 +25,7 @@ This definition is compelling because it identifies the 7 components a situation
 
 ---
 
-## A provlem diagram using my definition
+## A problem diagram using my definition
 
 ![Problem Diagram](/img/what-is-a-problem/problem-diagram.svg "Problem Diagram")
 
