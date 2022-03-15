@@ -11,21 +11,28 @@ I have been dissatisfied with every definition of the word "problem" I have come
 
 ## My definition
 
-> A problem is a situation where an obstacle applies friction to the transition of an entity from its current state to a desired one.
+> A problem is a situation where an obstacle applies friction to the momentum of the transition from an entity's current state to a desired one.
 
-This definition is compelling because it identifies the 6 components a situation needs to be categorized as a problem:
+This definition is compelling because it identifies the 7 components a situation needs to be categorized as a problem:
 
 1. **Entity** <br>The person, place, thing, or idea that has a state
 2. **Current state** <br>The current characteristics and/or circumstances of the entity
 3. **Desired state** <br>The new, advantageous characteristics and/or circumstances of the entity
-4. **Transition** <br>The action that is intended to change the entity's state from current to desired 
-5. **Friction** <br>The force slowing or preventing the transition
-6. **Obstacle** <br>The source of friction
- 
---- 
+4. **Momentum** <br>The effort to change the entity's state from current to desired
+5. **Transition** <br>The change in the entity's state from current to desired
+6. **Friction** <br>The force slowing or preventing the transition
+7. **Obstacle** <br>The source of friction
 
-## Conclusion 
+---
 
-I believe if my definition holds weight, all 6 components should be found in all problems, but if they can't, my definition will need additional revisions.
+## A diagram of my definition
+
+![Problem Diagram](/img/what-is-a-problem/problem-diagram.svg "Problem Diagram")
+
+---
+
+## Conclusion
+
+I believe if my definition holds weight, all 7 components should be found in all problems, but if they can't, my definition will need additional revisions.
 
 I look forward to putting it to the test.
