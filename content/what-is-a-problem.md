@@ -17,7 +17,7 @@ This definition is compelling because it identifies the 7 components a situation
 
 1. **Entity** <br>The person, place, thing, or idea that has a state
 2. **Current state** <br>The current characteristics and/or circumstances of the entity
-3. **Desired state** <br>The new, advantageous characteristics and/or circumstances of the entity
+3. **Desired state** <br>The desired characteristics and/or circumstances of the entity
 4. **Momentum** <br>The effort to change the entity's state from current to desired
 5. **Transition** <br>The change in the entity's state from current to desired
 6. **Friction** <br>The force slowing or preventing the transition
