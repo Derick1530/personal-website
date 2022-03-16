@@ -55,7 +55,7 @@ After this, a rephrasing of the problem would become something like:
 
 ### Problem 1: Solutioning
 
-Once the problem is clearly defined in this way, solutioning can begin by posing the simple question:
+Once the problem is clearly defined, solutioning can begin by posing the simple question:
 
 > What should they learn first?
 
