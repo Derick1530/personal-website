@@ -45,7 +45,7 @@ The **Momentum** is their attempt to find learning material with the **Obstacle*
 
 **What components are not present**
 
-This person's **Current State** is not known, so it is isn't instantly clear if overcoming the **Obstacle** will **Transition** the person to their **Desired State**.
+This person's **Current State** is not known, so it isn't instantly clear if overcoming the **Obstacle** will **Transition** the person to their **Desired State**.
 
 **Takeaway**
 
