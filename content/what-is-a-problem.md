@@ -43,15 +43,15 @@ The <mark>momentum</mark> is their attempt to find learning material with a seem
 
 This person's <mark>current state</mark> is not known, so it isn't obvious if overcoming the obstacle will <mark>transition</mark> the person to their desired state.
 
-However, intuition tells me this person's desired state is a long term goal, so there are many desired states between their current state and their goal. 
+However, intuition tells me this person's desired state is a long term goal, so there are many desired states between their current state and their goal.
 
 ### Problem 1: Defining the problem
 
-In order to provide an actionable solution, the problem must be clearly defined, and to do this, I would talk with them to clearly identify their current state and a new desired state that feels more straightforward to transition to.
+In order to provide an actionable solution, the problem must be clearly defined, and to do this, I would need to clearly identify their current state and a new desired state that feels more straightforward to transition to.
 
-After this, a rephrasing of the problem would be something like:
+After this, a rephrasing of the problem could be something like:
 
-> This person has discovered free websites to teach themselves Full Stack Software Engineering, and they want to start. However, after seeing how much there is to learn, they don't know what to learn first.
+> This person has discovered free websites to learn Full Stack Software Engineering. They want to start learning, but they don't know what to learn first after seeing how much there is.
 
 ### Problem 1: Solving the problem
 

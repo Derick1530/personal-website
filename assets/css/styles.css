@@ -56,7 +56,11 @@ strong { @apply text-slate-800; }
 
 audio { @apply w-full; }
 
-mark { background: hsl(38deg 100% 50% / 30%); }
+mark {
+  @apply text-gray-600;
+
+  background: hsl(38deg 100% 50% / 30%);
+}
 
 ::selection {
   background: hsl(38deg 100% 50% / 30%);
