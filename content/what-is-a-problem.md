@@ -33,7 +33,7 @@ This definition is compelling because it identifies the 7 components a situation
 
 ## Applying my definition to real problems
 
-### Problem 1: Raw Analysis
+### Problem 1: Raw analysis
 
 > I want to be a Full Stack Software Engineer. I found free websites to learn, but I don't know all the necessary topics.
 
@@ -45,13 +45,17 @@ This person's <mark>current state</mark> is not known, so it isn't obvious if ov
 
 Intuition tells me this person's desired state is a long term goal, so there are many desired states between their current state and their goal. 
 
-So in order to better assist, I would first clearly identify this person's current state and work with them to determine a new desired state that can easily be transitioned to through a low-friction obstacle.
+So in order to provide an actionable solution, the problem must be clearly defined, and to do this, I would talk with them to clearly identify their current state and a new desired state that feels more straightforward to transition to.
 
----
+### Problem 1: Defining the problem
 
-### Problem 1: Capturing
+> This person has discovered free websites to teach themselves Full Stack Software Engineering, and they want to start. However, after seeing how much there is to learn, they don't know what to learn first.
 
-> This person has discovered free websites to teach themselves Full Stack Software Engineering, and they want to start. However, after seeing how much there is to learn, they don't know where to begin.
+### Problem 1: Solutioning
+
+After the problem is clearly defined in this way, solutioning can begin by posing the question:
+
+> What should they learn first? 
 
 ---
 
