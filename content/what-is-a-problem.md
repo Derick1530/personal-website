@@ -43,7 +43,7 @@ The <mark>momentum</mark> is their attempt to find learning material with a seem
 
 This person's <mark>current state</mark> is not known, so it isn't obvious if overcoming the obstacle will <mark>transition</mark> the person to their desired state.
 
-Intuition tells me this person's desired state is a long term goal, so there are many desired states between their current state and their goal. 
+However, intuition tells me this person's desired state is a long term goal, so there are many desired states between their current state and their goal. 
 
 ### Problem 1: Defining the problem
 
@@ -65,4 +65,4 @@ Once the problem is clearly defined, solving it can begin by posing the simple q
 
 So far my definition appears to be valid because it has been possible to derive all 7 components from the problem I analyzed.
 
-With that said, I still have a lot more analysis to do, and I look forward to the ideas that will take shape as I deepen my research.
+With that said, I still have a lot more analysis to do, but I look forward to the ideas that will take shape as I deepen my research.
