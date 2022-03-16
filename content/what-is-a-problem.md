@@ -33,25 +33,25 @@ This definition is compelling because it identifies the 7 components a situation
 
 ## Applying my definition to real problems
 
-### Problem analysis Case 1
+### Problem 1: Raw Analysis
 
 > I want to be a Full Stack Software Engineer. I found free websites to learn, but I don't know all the necessary topics.
 
-**What components are present**
+In this case, the <mark>entity</mark> is the person, and their <mark>desired state</mark> is being a Full Stack Software Engineer.
 
-In this case, the **Entity** is the person, and their **Desired State** is being a Full Stack Software Engineer.
+The <mark>momentum</mark> is their attempt to find learning material with a seemingly <mark>low-friction obstacle</mark> being the person not knowing what to specifically learn about.
 
-The **Momentum** is their attempt to find learning material with the **Obstacle** being the person not knowing what to specifically learn about.
+This person's <mark>current state</mark> is not known, so it isn't obvious if overcoming the obstacle will <mark>transition</mark> the person to their desired state.
 
-**What components are not present**
+Intuition tells me this person's desired state is a long term goal, so there are many desired states between their current state and their goal. 
 
-This person's **Current State** is not known, so it isn't instantly clear if overcoming the **Obstacle** will **Transition** the person to their **Desired State**.
+So in order to better assist, I would first clearly identify this person's current state and work with them to determine a new desired state that can easily be transitioned to through a low-friction obstacle.
 
-**Takeaway**
+---
 
-Intuition tells me that this person's **Desired State** is a long term goal, so there are actually many **Desired States** between their _assumed_ **Current State** and the **Desired State** they mentioned.
+### Problem 1: Capturing
 
-Due to this discovery, which I did anticipate, I see that I need to add more fidelity around _why_ I felt the need to write my own definition for "problem".
+> This person has discovered free websites to teach themselves Full Stack Software Engineering, and they want to start. However, after seeing how much there is to learn, they don't know where to begin.
 
 ---
 
