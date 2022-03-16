@@ -63,6 +63,6 @@ Once the problem is clearly defined, solving it can begin by posing the simple q
 
 ## Conclusion
 
-I believe if my definition holds weight, all 7 components should be found in all problems, but if they can't, my definition will need additional revisions.
+So far my definition appears to be valid because it has been possible to derive all 7 components from the problem I analyzed.
 
-I look forward to putting it to the test.
+With that said, I still have a lot more analysis to do, and I look forward to the ideas that will take shape as I deepen my research.
