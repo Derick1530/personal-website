@@ -31,6 +31,30 @@ This definition is compelling because it identifies the 7 components a situation
 
 ---
 
+## Applying my definition to real problems
+
+### Problem analysis Case 1
+
+> I want to be a Full Stack Software Engineer. I found free websites to learn, but I don't know all the necessary topics.
+
+**What components are present**
+
+In this case, the **Entity** is the person, and their **Desired State** is being a Full Stack Software Engineer.
+
+The **Momentum** is their attempt to find learning material with the **Obstacle** being the person not knowing what to specifically learn about.
+
+**What components are not present**
+
+This person's **Current State** is not known, so it is isn't instantly clear if overcoming the **Obstacle** will **Transition** the person to their **Desired State**.
+
+**Takeaway**
+
+Intuition tells me that this person's **Desired State** is a long term goal, so there are actually many **Desired States** between their _assumed_ **Current State** and the **Desired State** they mentioned.
+
+Due to this discovery, which I did anticipate, I see that I need to add more fidelity around _why_ I felt the need to write my own definition for "problem".
+
+---
+
 ## Conclusion
 
 I believe if my definition holds weight, all 7 components should be found in all problems, but if they can't, my definition will need additional revisions.
