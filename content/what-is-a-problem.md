@@ -5,11 +5,7 @@ updatedAt: 2022-03-14
 type: Thought
 ---
 
-I have been dissatisfied with every definition of the word "problem" I have come across, so I wrote my own.
-
----
-
-## My definition
+Here's my definition of the word "problem".
 
 > A problem is a situation where an obstacle applies friction to the momentum of the transition from an entity's current state to a desired one.
 
