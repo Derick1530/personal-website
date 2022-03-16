@@ -5,6 +5,6 @@ updatedAt: 2022-03-16
 type: Thought
 ---
 
-Historically, I have written extremely specific "How-To" guides that focused on a handful of technologies. Though that strategy allowed me to gain exposure in those niche audiences, the shelf life of that content is extremely short and position me in as thought leader.
+Historically, I have written extremely specific "How-To" guides that focused on a handful of technologies. Though that strategy allowed me to gain exposure in those niche audiences, the shelf life of that type of content is extremely short and don't go far in positioning me as thought leader.
 
 Therefore, I am leaning more into creating content on topics that transcend specific technologies and expose readers to different ways of thinking.
