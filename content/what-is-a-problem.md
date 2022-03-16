@@ -53,9 +53,9 @@ After this, a rephrasing of the problem would become something like:
 
 > This person has discovered free websites to teach themselves Full Stack Software Engineering, and they want to start. However, after seeing how much there is to learn, they don't know what to learn first.
 
-### Problem 1: Solutioning
+### Problem 1: Solving the problem
 
-Once the problem is clearly defined, solutioning can begin by posing the simple question:
+Once the problem is clearly defined, solving it can begin by posing the simple question:
 
 > What should they learn first?
 
