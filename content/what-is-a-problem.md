@@ -49,7 +49,7 @@ However, intuition tells me this person's desired state is a long term goal, so 
 
 In order to provide an actionable solution, the problem must be clearly defined, and to do this, I would talk with them to clearly identify their current state and a new desired state that feels more straightforward to transition to.
 
-After this, a rephrasing of the problem would become something like:
+After this, a rephrasing of the problem would be something like:
 
 > This person has discovered free websites to teach themselves Full Stack Software Engineering, and they want to start. However, after seeing how much there is to learn, they don't know what to learn first.
 
