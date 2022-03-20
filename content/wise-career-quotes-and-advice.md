@@ -15,3 +15,4 @@ type: Thought
 8. A client will become a friend faster than a friend will become a client.
 9. "People think you need to be inspired to write. No, you write in order to get inspired." - Paul Jarvis
 10. Trust takes years to build, seconds to break, and forever to repair.
+11. "An aircraft parts manual details every nut, bolt, and instrument, but the entire manual won't teach you how to fly." - Nella Navets
