@@ -5,60 +5,77 @@ updatedAt: 2022-03-14
 type: Philosophy
 ---
 
-Here's my definition of the word "problem".
+Here's my definition of the word **problem**.
 
-> A problem is a situation where an obstacle applies friction to the momentum of the transition from an entity's current state to a desired one.
+> "A problem is a situation where an obstacle applies friction against an entity's transition from a current state to a desired new state." - Shadow Smith
 
-This definition is compelling because it identifies the 7 components a situation needs to be categorized as a problem:
-
-1. **Entity** <br>The person, place, thing, or idea that has a state
-2. **Current state** <br>The current characteristics and/or circumstances of the entity
-3. **Desired state** <br>The desired characteristics and/or circumstances of the entity
-4. **Momentum** <br>The attempt to change the entity's state from current to desired
-5. **Transition** <br>The change in the entity's state from current to desired
-6. **Friction** <br>The force slowing or preventing the transition
-7. **Obstacle** <br>The source of friction
+This definition is compelling to me because it identifies the 7 ingredients a **situation** needs to be categorized as a **problem**.
 
 ---
 
-## A problem diagram using my definition
+## The 7 ingredients
 
 ![Problem Diagram](/img/what-is-a-problem/problem-diagram.svg "Problem Diagram")
 
+1. **Entity** <br>A person, place, thing, or idea that has a state
+2. **Current state** <br>A current characteristic and/or circumstance of the entity
+3. **New state** <br>A new characteristic and/or circumstance of the entity
+4. **Transition** <br>A change in the entity's state from a current state to a new state
+5. **Obstacle** <br>A source of friction pushing against the transition
+6. **Friction** <br>A force capable of stopping a transition
+7. **Desire** <br>A want for the entity to be in a specific new state
+
 ---
 
-## Applying my definition to real problems
+## Examining real problems using my definition and the 7 ingredients
 
-### Problem 1: Raw analysis
+I saw someone share the following problem in an online forum, and I'm going to use my definition to break it down.
 
 > I want to be a Full Stack Software Engineer. I found free websites to learn, but I don't know all the necessary topics.
 
-In this case, the <mark>entity</mark> is the person, and their <mark>desired state</mark> is being a Full Stack Software Engineer.
+The <mark>entity</mark> is a person, their <mark>current state</mark> is **not being a Full Stack Software Engineer**, and their desired <mark>new state</mark> is **being a Full Stack Software Engineer**.
 
-The <mark>momentum</mark> is their attempt to find learning material with a seemingly <mark>low-friction obstacle</mark> being the person not knowing what to specifically learn about.
+They encountered an <mark>obstacle</mark> of **not knowing what to learn** that has applied <mark>enough friction</mark> to their <mark>transition</mark> to stop them from **being a Full Stack Software Engineer**.
 
-This person's <mark>current state</mark> is not known, so it isn't obvious if overcoming the obstacle will <mark>transition</mark> the person to their desired state.
+Interestingly, when an <mark>entity</mark> encounters an <mark>obstacle</mark>, the state of being faced with that <mark>obstacle</mark> _is_ a <mark>current state</mark> of the <mark>entity</mark> itself with an obvious desired <mark>new state</mark> of no longer being faced with that <mark>obstacle</mark>.
 
-However, intuition tells me this person's desired state is a long term goal, so there are many desired states between their current state and their goal.
+Therefore, their problem statement could also be:
 
-### Problem 1: Defining the problem
+> I don't know what to learn to be a Full Stack Software Engineer.
 
-In order to provide an actionable solution, the problem must be clearly defined, and to do this, I would need to clearly identify their current state and a new desired state that feels more straightforward to transition to.
+Again, the <mark>entity</mark> is a person, their <mark>current state</mark> is **not knowing what to learn**, and their <mark>desired new state</mark> is **knowing what to learn**.
 
-After this, a rephrasing of the problem could be something like:
+They encountered an <mark>obstacle</mark> of **not having an easily accessible resource of information about becoming a Full Stack Software Engineer** that has applied <mark>enough friction</mark> to their <mark>transition</mark> to stop them from **knowing what to learn**.
 
-> This person has discovered free websites to learn Full Stack Software Engineering. They want to start learning, but they don't know what to learn first after seeing how much there is.
+With the <mark>entity</mark> encountering an <mark>obstacle</mark> of **not having an easily accessible resource of information about becoming a Full Stack Software Engineer**, their <mark>current state</mark> _is_ **not having an easily accessible resource of information about becoming a Full Stack Software Engineer** with an obvious <mark>desired new state</mark> of **having an easily accessible resource of information about becoming a Full Stack Software Engineer**.
 
-### Problem 1: Solving the problem
+Therefore, their problem statement could also be:
 
-Once the problem is clearly defined, solving it can begin by posing the simple question:
-
-> What should they learn first?
+> I don't have an easily accessible resource of information about becoming a Full Stack Software Engineer.
 
 ---
 
-## Conclusion
+## The Situation Fractal
 
-So far my definition appears to be valid because it has been possible to derive all 7 components from the problem I analyzed.
+Situations exist and happen at all times, but it is <mark>desire</mark> that turns a **situation** into a **problem**.
 
-With that said, I still have a lot more analysis to do, but I look forward to the ideas that will take shape as I deepen my research.
+Specifically, an <mark>entity</mark> can <mark>transition</mark> from a <mark>current state</mark> to a <mark>new state</mark> against the <mark>friction</mark> of an encountered <mark>obstacle</mark>, but if there is no <mark>desire</mark> for the <mark>entity</mark> to be in a specific <mark>new state</mark>, the **situation** <u>is not</u> a **problem**.
+
+In fact, situations occur with every entity in the universe where they transition from a current state to a new state against the friction of encountered obstacles as they move through time, and this is a visual of what I believe this [fractal](https://www.merriam-webster.com/dictionary/fractal) looks like:
+
+![Situation Fractal](/img/what-is-a-problem/situation-fractal.svg "Situation Fractal")
+
+Therefore, if there is no <mark>desire</mark> to transition to a specific <mark>new state</mark>, there is no **problem** while an <mark>entity</mark> traverses different states in their **Situation Fractal**, but the moment a <mark>new state</mark> is desired a **problem** now exists.
+
+This is what that looks like in a **Situation Fractal**.
+
+![A Problem in the Situation Fractal](/img/what-is-a-problem/a-problem-in-the-situation-fractal.svg "A Problem in the Situation Fractal")
+
+---
+
+## The 2 states of a Problem
+
+If all [7 ingredients](#the-7-ingredients) are present, a **situation** is _always_ a **problem**, and it exists in 1 of 2 states.
+
+1. **Unsolved Problem** <br>An unsolved problem is a situation where an obstacle <u>applies enough friction</u> to stop an entity's transition from a current state to a desired new state.
+2. **Solved Problem** <br>A solved problem is a situation where an obstacle <u>doesn't apply enough friction</u> to stop an entity's transition from a current state to a desired new state.
