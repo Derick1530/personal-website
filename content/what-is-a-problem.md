@@ -65,7 +65,7 @@ In fact, situations occur with every entity in the universe where they transitio
 
 ![Situation Fractal](/img/what-is-a-problem/situation-fractal.svg "Situation Fractal")
 
-Therefore, if there is no <mark>desire</mark> to transition to a specific <mark>new state</mark>, there is no **problem** while an <mark>entity</mark> traverses different states in their **Situation Fractal**, but the moment a <mark>new state</mark> is desired, a **problem** now exists.
+So if there is no <mark>desire</mark> to transition to a specific <mark>new state</mark>, there is no **problem** while an <mark>entity</mark> traverses different states in their **Situation Fractal**, but the moment a <mark>new state</mark> is desired, a **problem** now exists.
 
 Below is what a **problem** in a **Situation Fractal** looks like.
 
