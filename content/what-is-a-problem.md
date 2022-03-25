@@ -61,7 +61,7 @@ Situations with 6 of the [7 ingredients](#the-7-ingredients) constantly happen a
 
 Specifically, an <mark>entity</mark> can <mark>transition</mark> from a <mark>current state</mark> to a <mark>new state</mark> against the <mark>friction</mark> of an encountered <mark>obstacle</mark>, but if there is no <mark>desire</mark> for the <mark>entity</mark> to be in a specific <mark>new state</mark>, the **situation** <u>is not</u> a **problem**.
 
-In fact, situations occur with every entity in the universe where they transition from a current state to a new state against the friction of encountered obstacles as they move through time, and below is a visual of what I believe a section of this [fractal](https://www.merriam-webster.com/dictionary/fractal) looks like:
+In fact, situations occur with every entity in the universe where they transition from a current state to a new state against the friction of encountered obstacles as they move through time, and below is a visual of what I believe a section of this [fractal](https://www.merriam-webster.com/dictionary/fractal) looks like.
 
 ![Situation Fractal](/img/what-is-a-problem/situation-fractal.svg "Situation Fractal")
 
