@@ -2,7 +2,7 @@
 title: What is a problem?
 description: My definition of the word "problem"
 updatedAt: 2022-03-14
-type: Thought
+type: Philosophy
 ---
 
 Here's my definition of the word "problem".
