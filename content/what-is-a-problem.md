@@ -57,17 +57,17 @@ Therefore, their problem statement could also be:
 
 ## The Situation Fractal
 
-Situations exist and happen at all times, but it is <mark>desire</mark> that turns a **situation** into a **problem**.
+Situations with 6 of the [7 ingredients](#the-7-ingredients) constantly happen all the time, but it is specifically **Desire** that turns a **situation** into a **problem**.
 
 Specifically, an <mark>entity</mark> can <mark>transition</mark> from a <mark>current state</mark> to a <mark>new state</mark> against the <mark>friction</mark> of an encountered <mark>obstacle</mark>, but if there is no <mark>desire</mark> for the <mark>entity</mark> to be in a specific <mark>new state</mark>, the **situation** <u>is not</u> a **problem**.
 
-In fact, situations occur with every entity in the universe where they transition from a current state to a new state against the friction of encountered obstacles as they move through time, and this is a visual of what I believe this [fractal](https://www.merriam-webster.com/dictionary/fractal) looks like:
+In fact, situations occur with every entity in the universe where they transition from a current state to a new state against the friction of encountered obstacles as they move through time, and below is a visual of what I believe a section of this [fractal](https://www.merriam-webster.com/dictionary/fractal) looks like:
 
 ![Situation Fractal](/img/what-is-a-problem/situation-fractal.svg "Situation Fractal")
 
 Therefore, if there is no <mark>desire</mark> to transition to a specific <mark>new state</mark>, there is no **problem** while an <mark>entity</mark> traverses different states in their **Situation Fractal**, but the moment a <mark>new state</mark> is desired a **problem** now exists.
 
-This is what that looks like in a **Situation Fractal**.
+Below is what a **problem** in a **Situation Fractal** looks like.
 
 ![A Problem in the Situation Fractal](/img/what-is-a-problem/a-problem-in-the-situation-fractal.svg "A Problem in the Situation Fractal")
 
