@@ -1,11 +1,11 @@
 ---
-title: What is a problem?
+title: What is a “problem”?
 description: My definition of the word "problem"
 updatedAt: 2022-03-14
 type: Philosophy
 ---
 
-Here's my definition of the word **problem**.
+Here's my definition of a **problem**.
 
 > "A problem is a situation where an obstacle applies friction against an entity's transition from a current state to a desired new state." - Shadow Smith
 
@@ -33,7 +33,7 @@ I saw someone share the following problem in an online forum, and I'm going to u
 
 > I want to be a Full Stack Software Engineer. I found free websites to learn, but I don't know all the necessary topics.
 
-The <mark>entity</mark> is a person, their <mark>current state</mark> is **not being a Full Stack Software Engineer**, and their desired <mark>new state</mark> is **being a Full Stack Software Engineer**.
+The <mark>entity</mark> is a **person**, their <mark>current state</mark> is **not being a Full Stack Software Engineer**, and their desired <mark>new state</mark> is **being a Full Stack Software Engineer**.
 
 They encountered an <mark>obstacle</mark> of **not knowing what to learn** that has applied <mark>enough friction</mark> to their <mark>transition</mark> to stop them from **being a Full Stack Software Engineer**.
 
@@ -43,11 +43,11 @@ Therefore, their problem statement could also be:
 
 > I don't know what to learn to be a Full Stack Software Engineer.
 
-Again, the <mark>entity</mark> is a person, their <mark>current state</mark> is **not knowing what to learn**, and their <mark>desired new state</mark> is **knowing what to learn**.
+Again, the <mark>entity</mark> is a **person**, their <mark>current state</mark> is **not knowing what to learn**, and their desired <mark>new state</mark> is **knowing what to learn**.
 
 They encountered an <mark>obstacle</mark> of **not having an easily accessible resource of information about becoming a Full Stack Software Engineer** that has applied <mark>enough friction</mark> to their <mark>transition</mark> to stop them from **knowing what to learn**.
 
-With the <mark>entity</mark> encountering an <mark>obstacle</mark> of **not having an easily accessible resource of information about becoming a Full Stack Software Engineer**, their <mark>current state</mark> _is_ **not having an easily accessible resource of information about becoming a Full Stack Software Engineer** with an obvious <mark>desired new state</mark> of **having an easily accessible resource of information about becoming a Full Stack Software Engineer**.
+With the <mark>entity</mark> encountering an <mark>obstacle</mark> of **not having an easily accessible resource of information about becoming a Full Stack Software Engineer**, their <mark>current state</mark> _is_ **not having an easily accessible resource of information about becoming a Full Stack Software Engineer** with an obvious desired <mark>new state</mark> of **having an easily accessible resource of information about becoming a Full Stack Software Engineer**.
 
 Therefore, their problem statement could also be:
 
