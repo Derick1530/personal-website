@@ -75,11 +75,9 @@ Below is what a **problem** in a **Situation Fractal** looks like.
 
 ## The 2 states of a Problem
 
-If all [7 ingredients](#the-7-ingredients) are present, a **situation** is _always_ a **problem**, but whether or not someone _believes_ a **situation** is a **problem** depends on which state a problem is currently in.
+If all [7 ingredients](#the-7-ingredients) are present, a **situation** is _always_ a **problem**, but whether or not someone _believes_ a **situation** is a **problem** depends on _how much_ friction is being applied to the entity’s transition from a current state to a desired new state.
 
-The 2 states of a problems are:
+The amount of friction determines which of the following 2 states a problem is in, with these states being:
 
 1. **Unsolved** <br>This is when an obstacle <mark>applies enough friction</mark> to stop an entity's transition from a current state to a desired new state.
 2. **Solved** <br>This is when an obstacle <mark>doesn't apply enough friction</mark> to stop an entity's transition from a current state to a desired new state.
-
-So **Friction** is also a critical ingredient to whether or not a **situation** is generally considered a **problem**, but I would argue that if **Desire** for a specific state is present, a **situation** _is_ a **problem** regardless of _how much_ **Friction** is being applied.
