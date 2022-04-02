@@ -27,6 +27,37 @@ This definition is compelling to me because it identifies the 7 ingredients a **
 
 ---
 
+## The Situation Fractal
+
+Situations with 6 of the [7 ingredients](#the-7-ingredients) constantly happen all the time, but it is specifically **Desire** that turns a **situation** into a **problem**.
+
+Specifically, an entity can transition from a current state to a new state against the friction of an encountered obstacle, but if there is no desire for the entity to be in a specific new state, the **situation** <u>is not</u> a **problem**.
+
+In fact, situations occur with every entity in the universe where they transition from a current state to a new state against the friction of encountered obstacles as they move through time, and below is a visual of what I believe a section of this [fractal](https://www.merriam-webster.com/dictionary/fractal) looks like.
+
+![Situation Fractal](/img/what-is-a-problem/situation-fractal.svg "Situation Fractal")
+
+So if there is no **Desire** to transition to a specific new state, there is no **problem** while an entity traverses different states in their **Situation Fractal**, but the moment a new state is desired, a **problem** now exists.
+
+Below is what a **problem** in a **Situation Fractal** looks like.
+
+![A Problem in the Situation Fractal](/img/what-is-a-problem/a-problem-in-the-situation-fractal.svg "A Problem in the Situation Fractal")
+
+---
+
+## The 2 states of a Problem
+
+If all [7 ingredients](#the-7-ingredients) are present, a **situation** is _always_ a **problem**, but whether or not someone _believes_ a **situation** is a **problem** depends on _how much_ friction is being applied to the entity’s transition from a current state to a desired new state.
+
+The amount of friction determines which of the following 2 states a problem is in, with these states being:
+
+1. **Unsolved** <br>This is when an obstacle <mark>applies enough friction</mark> to stop an entity's transition from a current state to a desired new state.
+2. **Solved** <br>This is when an obstacle <mark>doesn't apply enough friction</mark> to stop an entity's transition from a current state to a desired new state.
+
+![Problem States](/img/what-is-a-problem/problem-states.svg "Problem States")
+
+---
+
 ## Examining real problems using my definition and the 7 ingredients
 
 I saw someone share the following problem in an online forum, and I'm going to use my definition to break it down.
@@ -52,32 +83,3 @@ With the <mark>entity</mark> encountering an <mark>obstacle</mark> of **not havi
 Therefore, their problem statement could also be:
 
 > I don't have an easily accessible resource of information about becoming a Full Stack Software Engineer.
-
----
-
-## The Situation Fractal
-
-Situations with 6 of the [7 ingredients](#the-7-ingredients) constantly happen all the time, but it is specifically **Desire** that turns a **situation** into a **problem**.
-
-Specifically, an <mark>entity</mark> can <mark>transition</mark> from a <mark>current state</mark> to a <mark>new state</mark> against the <mark>friction</mark> of an encountered <mark>obstacle</mark>, but if there is no <mark>desire</mark> for the <mark>entity</mark> to be in a specific <mark>new state</mark>, the **situation** <u>is not</u> a **problem**.
-
-In fact, situations occur with every entity in the universe where they transition from a current state to a new state against the friction of encountered obstacles as they move through time, and below is a visual of what I believe a section of this [fractal](https://www.merriam-webster.com/dictionary/fractal) looks like.
-
-![Situation Fractal](/img/what-is-a-problem/situation-fractal.svg "Situation Fractal")
-
-So if there is no <mark>desire</mark> to transition to a specific <mark>new state</mark>, there is no **problem** while an <mark>entity</mark> traverses different states in their **Situation Fractal**, but the moment a <mark>new state</mark> is desired, a **problem** now exists.
-
-Below is what a **problem** in a **Situation Fractal** looks like.
-
-![A Problem in the Situation Fractal](/img/what-is-a-problem/a-problem-in-the-situation-fractal.svg "A Problem in the Situation Fractal")
-
----
-
-## The 2 states of a Problem
-
-If all [7 ingredients](#the-7-ingredients) are present, a **situation** is _always_ a **problem**, but whether or not someone _believes_ a **situation** is a **problem** depends on _how much_ friction is being applied to the entity’s transition from a current state to a desired new state.
-
-The amount of friction determines which of the following 2 states a problem is in, with these states being:
-
-1. **Unsolved** <br>This is when an obstacle <mark>applies enough friction</mark> to stop an entity's transition from a current state to a desired new state.
-2. **Solved** <br>This is when an obstacle <mark>doesn't apply enough friction</mark> to stop an entity's transition from a current state to a desired new state.
