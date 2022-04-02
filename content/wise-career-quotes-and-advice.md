@@ -6,7 +6,7 @@ type: Thought
 ---
 
 1. "People don't buy what you do; they buy why you do it and what you do simply proves what you believe." - Simon Sinek
-2. At the end of an interview, always ask, "What would prevent me from getting this role?", and then prove them wrong.
+2. At the end of an interview, ask, "What would prevent me from getting this job?", then prove them wrong.
 3. If you have to Google for an answer to a problem for more than 10 minutes, write an article about it once you solve it.
 4. To go fast, go alone. To go far, go together.
 5. Learn to understand. Teach to master.
