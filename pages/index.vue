@@ -92,10 +92,21 @@ export default {
           label: 'All Content',
           value: 'ALL'
         },
-        ...dedupedTypes.map(type => ({
-          label: `${type}s`,
-          value: type.toUpperCase()
-        }))
+        ...dedupedTypes.map((type) => {
+          let label
+          const typeEndsInY = type.substring(type.length - 1) === 'y'
+
+          if (typeEndsInY) {
+            label = `${type.substring(0, type.length - 1)}ies`
+          } else {
+            label = `${type}s`
+          }
+
+          return {
+            label,
+            value: type.toUpperCase()
+          }
+        })
       ]
     }
   },
