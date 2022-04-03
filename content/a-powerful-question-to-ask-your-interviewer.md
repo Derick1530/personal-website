@@ -2,7 +2,7 @@
 title: A powerful question to ask your next interviewer
 description: I’ve asked this question at the end of every interview, and I’ve always left with an opportunity.
 updatedAt: 2022-04-02
-type: Tip
+type: Explanation
 ——-
 
 It was nearing the end of my 4th round interview for a Software Engineer position at a tech startup, and I was asked by my interviewers if I had any questions for them.
