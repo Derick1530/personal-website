@@ -1,9 +1,9 @@
-——-
+—--
 title: A powerful question to ask your next interviewer
 description: I’ve asked this question at the end of every interview, and I’ve always left with an opportunity.
 updatedAt: 2022-04-02
-type: Explanation
-——-
+type: Tip
+---
 
 It was nearing the end of my 4th round interview for a Software Engineer position at a tech startup, and I was asked by my interviewers if I had any questions for them.
 
@@ -28,3 +28,5 @@ But how does this work?
 I specifically designed this question I ask to get interviewers to reveal the difference between what they know about me v.s. who they are looking for.
 
 This creates an opportunity at the 11th hour of the interview to satisfy any objections to my employment and leave a lasting impression on those that are helping determine my fate.
+
+After using this question to great success over the years, I swear by this tactic, and it is easily one of the most actionable tips I share with anyone who is interviewing for a new job.
