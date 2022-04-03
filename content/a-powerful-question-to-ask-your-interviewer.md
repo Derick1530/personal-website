@@ -5,9 +5,7 @@ updatedAt: 2022-04-02
 type: Tip
 ---
 
-Nearing the end of my 4th round interview for a Software Engineer position at a tech startup, I was asked by my interviewers if I had any questions for them, and I did. 
-
-Little did they know, I was about to ask a tough question that will force them to show their hand.
+Nearing the end of my 4th round interview for a Software Engineer position at a tech startup, I was asked by my interviewers if I had any questions for them, and little did they know, I was ready to ask a tough question designed to force them to show their hand.
 
 I asked:
 
