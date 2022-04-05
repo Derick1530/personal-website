@@ -39,7 +39,6 @@
         v-model="filter"
         name="filter"
         class="appearance-none bg-transparent focus:outline-none mr-2"
-        aria-label="Default select example"
       >
         <option v-for="(type, index) in contentTypes" :key="index" :value="type.value">
           {{ type.label }}

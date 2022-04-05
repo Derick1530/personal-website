@@ -31,7 +31,7 @@
         <a
           v-if="content.buttonText && content.externalLink"
           :href="content.externalLink"
-          class="inline-flex items-center bg-black text-white border border-black rounded py-2 px-12"
+          class="inline-flex items-center bg-slate-800 text-white border border-slate-800 rounded py-2 px-12"
           target="_blank"
           rel="noopener noreferrer"
         >{{ content.buttonText }} <svg
@@ -49,7 +49,7 @@
         <nuxt-link
           v-if="content.buttonText && content.internalLink"
           :to="content.internalLink"
-          class="inline-flex items-center bg-black text-white border border-black rounded py-2 px-12"
+          class="inline-flex items-center bg-slate-800 text-white border border-slate-800 rounded py-2 px-12"
         >
           {{ content.buttonText }}
         </nuxt-link>
