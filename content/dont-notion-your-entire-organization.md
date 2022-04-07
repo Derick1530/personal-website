@@ -86,3 +86,9 @@ But unfortunately, those people will be gone because they could only take 537 ro
 3. **Use Notion for collaboration and stop-gap solutions.** Teams _should_ be empowered to customize it as they see fit to collaborate more effectively.
 4. **Reject all attempts to store knowledge in Notion.** If it can't be found, it doesn't exist.
 5. **Adopt a tool designed for true Knowledge Management.** Check out [Guru](https://www.getguru.com/). _(This is not sponsored.)_
+
+---
+
+## Quotes from colleagues after reading this
+
+> “Notion feels like when I give my kid a blank piece of construction paper and say draw a monster when what he needs is a monster coloring book. He can choose what colors to make the monster, but he needs guidelines. Notion gives us no guidelines and lets us vomit all over a confined digital space.”
