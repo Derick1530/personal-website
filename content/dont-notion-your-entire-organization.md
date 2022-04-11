@@ -17,7 +17,7 @@ Though, I appreciate the “why” and see a lot of value in using Notion for co
 
 ---
 
-## Collaborative Context v.s. Knowledge
+## Collaborative Context vs. Knowledge
 
 As members of your organization collaborate using a mashup of Microsoft Office, G Suite, Slack, Email, meeting notes, etc., collaborative context is generated leading up to the delivery of a solution to a problem faced by team members internally or by customers externally.
 
