@@ -39,7 +39,7 @@ This is the path to convert your organization from one poisoned by the false sec
 
 ## What customization by everyone truly means
 
-This sentence in Notion’s mission statement is poisonous.
+When trying to store and grow an organization's knowledge, this sentence in Notion’s mission statement is poisonous.
 
 > We want everyone everywhere to feel empowered to customize the software they use every day to their exact needs. <br>- [Notion](https://www.notion.so/blog/notion-operating-values#:~:text=Our%20mission%20is%20to%20make,day%20to%20their%20exact%20needs.)
 
