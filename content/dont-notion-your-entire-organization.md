@@ -94,3 +94,5 @@ But unfortunately, those people will be gone because they could only take 537 ro
 > "Notion feels like when I give my kid a blank piece of construction paper and say draw a monster when what he needs is a monster coloring book. He can choose what colors to make the monster, but he needs guidelines. Notion gives us no guidelines and lets us vomit all over a confined digital space."
 
 > "When trying to onboard someone new to the company, it becomes incredibly difficult with Notion because there is no separation between stable documentation and prior/ongoing discussions around that topic. This limits the new hire's ability to search for the documentation that is relevant to them: leaving them frustrated, confused, and needing to seek assistance from a teammate."
+
+> "I really want to find the information I need in Notion… but where did we put it again? … Where do I need to update the documentation? … Is this the right place?… Will someone else find this when they need it? … What was I looking for again? … I just wish I could find what I need, and not update what I don’t need to update. Why is this so difficult?! It should not be this hard."
