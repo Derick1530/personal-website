@@ -17,7 +17,7 @@ Though, I appreciate the “why” and see a lot of value in using Notion for co
 
 ---
 
-## Collaborative Context v.s. Knowledge
+## Collaborative Context vs. Knowledge
 
 As members of your organization collaborate using a mashup of Microsoft Office, G Suite, Slack, Email, meeting notes, etc., collaborative context is generated leading up to the delivery of a solution to a problem faced by team members internally or by customers externally.
 
@@ -39,7 +39,7 @@ This is the path to convert your organization from one poisoned by the false sec
 
 ## What customization by everyone truly means
 
-This sentence in Notion’s mission statement is poisonous.
+When trying to store and grow an organization's knowledge, this sentence in Notion’s mission statement is poisonous.
 
 > We want everyone everywhere to feel empowered to customize the software they use every day to their exact needs. <br>- [Notion](https://www.notion.so/blog/notion-operating-values#:~:text=Our%20mission%20is%20to%20make,day%20to%20their%20exact%20needs.)
 
@@ -91,4 +91,8 @@ But unfortunately, those people will be gone because they could only take 537 ro
 
 ## Quotes from colleagues after reading this
 
-> “Notion feels like when I give my kid a blank piece of construction paper and say draw a monster when what he needs is a monster coloring book. He can choose what colors to make the monster, but he needs guidelines. Notion gives us no guidelines and lets us vomit all over a confined digital space.”
+> "Notion feels like when I give my kid a blank piece of construction paper and say draw a monster when what he needs is a monster coloring book. He can choose what colors to make the monster, but he needs guidelines. Notion gives us no guidelines and lets us vomit all over a confined digital space."
+
+> "When trying to onboard someone new to the company, it becomes incredibly difficult with Notion because there is no separation between stable documentation and prior/ongoing discussions around that topic. This limits the new hire's ability to search for the documentation that is relevant to them: leaving them frustrated, confused, and needing to seek assistance from a teammate."
+
+> "I really want to find the information I need in Notion… but where did we put it again? … Where do I need to update the documentation? … Is this the right place?… Will someone else find this when they need it? … What was I looking for again? … I just wish I could find what I need, and not update what I don’t need to update. Why is this so difficult?! It should not be this hard."
