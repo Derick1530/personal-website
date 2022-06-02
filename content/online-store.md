@@ -1,8 +1,8 @@
 ---
-title: I have opened an online store
-description: I’m going to use Gumroad to sell merch and digital downloads.
+title: I have opened an online merch and digital downloads store
+description: I am using Gumroad and Printful to sell my creations on demand.
 updatedAt: 2022-06-02
-buttonText: Check It Out
+buttonText: Check Out My Store
 externalLink: https://heyshadowsmith.gumroad.com/
 type: Thought
 ---
