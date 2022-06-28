@@ -7,7 +7,7 @@ buttonText: Read my Learner Story
 externalLink: https://www.codecademy.com/resources/blog/from-selling-houses-to-staff-engineer/
 ---
 
-_Huge shoutout to Codecademy for noticing my contributions to the community, reaching out, conducting the interview, and polishing the content in order to motivate other learners. You have forever changed my life and being featured is an honor._
+_Huge shout-out to Codecademy for noticing my contributions to the community, reaching out, conducting the interview, and polishing the content in order to motivate other learners. You have forever changed my life and being featured is an honor._
 
 ---
 
