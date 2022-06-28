@@ -7,4 +7,6 @@ buttonText: Read my Learner Story
 externalLink: https://www.codecademy.com/resources/blog/from-selling-houses-to-staff-engineer/
 ---
 
+As described in my interview, Codecademy changed my life, but my goal was never to “become a Software Engineer”. I just helped people and companies solve their problems with code, and it lead me to building Software.
+
 > His learning journey took him across several different industries from cattle feed to banking, and it just goes to show how tech touches nearly every field these days. It also highlights that learning to code isn’t necessarily a straight line from A to B, and that’s okay!<br>- Codecademy
