@@ -1,6 +1,6 @@
 ---
 title: I am now featured on Codecademy
-description: Codecademy asked to interview me and were inspired by my unconventional journey to Software Engineering.
+description: Codecademy asked for an interview and were inspired by my unconventional journey to Software Engineering.
 updatedAt: 2022-06-28
 type: Accomplishment
 buttonText: Read my Learner Story
