@@ -20,3 +20,7 @@ So if you’re starting your career journey by learning to code, my advice is to
 Don’t chase a title or a large salary. Chase a problem, find your stride, lean in, and never stop learning.
 
 The rest will come.
+
+---
+
+[Read my Learner Story on Codecademy’s blog](https://www.codecademy.com/resources/blog/from-selling-houses-to-staff-engineer/)
