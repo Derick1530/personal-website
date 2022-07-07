@@ -5,12 +5,17 @@ updatedAt: 2022-07-06
 type: Philosophy
 ---
 
-4 months ago in March of 2022, I decided to try to write my own definition for the word “problem”, and I published [What is a “problem”?](/what-is-a-problem).
+In March of 2022, I wrote the following definition for the word “problem”, described in detail in my post [What is a “problem”?](/what-is-a-problem).
 
-Since writing it, I have used, shared, and discussed my definition at length and found where it begins to break down, so now I have revisited it.
+> A problem is a situation where an obstacle applies friction against an entity’s transition from a current state to a desired new state.” <br>- Shadow Smith
+
+Since writing this definition, I have used, shared, and discussed it at length and found where it shines and where it begins to break down.
+
+So now I am revisiting it 4 months later to polish it further.
 
 ---
 
-## The new definition
+## My new definition
 
-> “A problem is the desire for an entity to transition from a current state to a new state.” - Shadow Smith
+> “A problem is the desire for an entity to transition from a current state to a new state.” <br>- Shadow Smith
+
