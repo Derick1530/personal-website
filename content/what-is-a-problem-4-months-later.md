@@ -1,6 +1,6 @@
 ---
-title: What is a “problem” 4 months later?
-description: A less verbose definition of the word “problem”
+title: What is a “problem“ 4 months later?
+description: A less verbose definition of the word “problem“
 updatedAt: 2022-07-06
 type: Philosophy
 ---
@@ -9,6 +9,8 @@ type: Philosophy
 
 Since writing it, I have used, shared, and discussed my definition at length and found where it begins to break down, so now I have revisited it.
 
-# The new definition
+---
+
+## The new definition
 
 > “A problem is the desire for an entity to transition from a current state to a new state.” - Shadow Smith
