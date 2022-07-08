@@ -17,3 +17,4 @@ type: Thought
 10. Trust takes years to build, seconds to break, and forever to repair.
 11. "An aircraft parts manual details every nut, bolt, and instrument, but the entire manual won't teach you how to fly." - Nella Navets
 12. "Every problem is an opportunity in disguise." - John Adams
+13. “Well begun is half done.” - Aristotle
