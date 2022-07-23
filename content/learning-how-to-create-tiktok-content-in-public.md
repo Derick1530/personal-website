@@ -1,11 +1,11 @@
 ---
-title: I am going to start learning how to create TikTok content
-description: I’m ready to lean into my curiosity and compulsion to make videos using just my phone.
+title: I am learning how to create TikTok content
+description: Leaning into my curiosity and compulsion to make videos using just my phone
 updatedAt: 2022-07-23
 type: Thought
 ---
 
-# Why TikTok?
+## Why TikTok?
 
 For quite a while I’ve been trying to determine how to break into making video content. I made plans to stream on Twitch while I wrote code and also set up a YouTube channel in preparation, but I just couldn’t start.
 
