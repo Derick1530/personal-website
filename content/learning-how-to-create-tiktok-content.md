@@ -1,6 +1,6 @@
 ---
-title: I am learning how to create TikTok content
-description: Leaning into my curiosity and compulsion to make videos using just my phone
+title: Learning how to create TikTok content
+description: I’m finally leaning into my curiosity and compulsion to make videos using just my phone.
 updatedAt: 2022-07-23
 type: Thought
 ---
