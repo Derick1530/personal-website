@@ -17,12 +17,10 @@ So I have decided to learn TikTok for 2 main reasons:
 1. It allows me to create and publish short, high quality video content using just my phone.
 2. It’s algorithm is easily the best in the world which increases the odds of my content being seen instead of falling into the void upon publishing.
 
-Now that I have chosen TikTok over Twitch or YouTube, I need to determine what I’m going to share.
+Now that I have chosen TikTok over Twitch or YouTube, I need to determine where to start, and it turns out, TikTok has a list of [6 key secrets to success](https://www.tiktok.com/creators/creator-portal/en-us/foundations-for-success/6-key-secrets-to-success/?enter_method=category_card) that I can use as a jumping off point.
 
 ---
 
-## What am I going to share?
+## Where am I going to start?
 
-I don’t know yet, but I feel I have a lot to say.
-
-Time to start Googling.
+TikTok says the 1st “key secret to success” is to know your personal brand, and this resonates with me.
