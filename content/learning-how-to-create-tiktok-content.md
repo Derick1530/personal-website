@@ -21,6 +21,8 @@ Now that I have chosen TikTok over Twitch or YouTube, I need to determine where 
 
 ---
 
-## Where am I going to start?
+## So where am I going to start?
 
 TikTok says the 1st “key secret to success” is to know your personal brand, and this resonates with me.
+
+I am passionate about creating something from nothing and helping others using technology, and more recently, mentoring, so some self discovery is in order.
