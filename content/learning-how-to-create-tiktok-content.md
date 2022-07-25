@@ -25,4 +25,4 @@ Now that I have chosen TikTok over Twitch or YouTube, I need to determine where 
 
 TikTok says the 1st “key secret to success” is to know your personal brand, and this resonates with me.
 
-I am passionate about creating something from nothing and helping others using technology, and more recently, mentoring, so some self discovery is in order.
+I have always had a passion for creating something from nothing and helping others through technology, and many opportunities have emerged by me simply sharing those “Why”s consistently over the years.
