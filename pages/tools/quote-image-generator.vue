@@ -86,7 +86,10 @@
 </template>
 
 <script>
+import auth from '~/mixins/auth'
+
 export default {
+  mixins: [auth],
   data () {
     return {
       quote: '',
