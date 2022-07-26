@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div v-if="isAuthorized">
     <h1 class="md:text-center text-4xl mb-3 lg:mb-6 lg:text-6xl">
       Quote image generator
     </h1>
