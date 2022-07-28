@@ -148,7 +148,7 @@ export default {
         'Light',
         'Dark'
       ],
-      imageSrc: '/api/quote-image?theme=dark'
+      imageSrc: '/api/quote-image?template=basic&theme=dark'
     }
   },
   head () {
