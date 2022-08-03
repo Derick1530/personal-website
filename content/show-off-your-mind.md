@@ -1,6 +1,6 @@
 ---
 title: "Show off your mind"
-description: A mantra that encourages the sharing of constructive thinking in real-time to increase luck.
+description: A mantra that encourages the sharing of creative thinking in real-time to increase luck.
 updatedAt: 2022-07-31
 type: Thought
 ---
@@ -15,6 +15,6 @@ In addition, it perfectly lines up with the _"work in public"_ mentality I am le
 
 It is on this day that I define _**“Show off your mind”**_ for myself and intentionally begin to lead my life by it.
 
-> _**“Show off your mind”**_ is a mantra that encourages the sharing of constructive thinking in real-time to increase luck.
+> _**“Show off your mind”**_ is a mantra that encourages the sharing of creative thinking in real-time to increase luck.
 
 Feel free to live yours by it too.
