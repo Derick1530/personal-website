@@ -1,6 +1,6 @@
 ---
 title: Along
-description: A brand new video platform that is perfect to show off your mind.
+description: A brand new video platform that allows you to perfectly “Show off your mind”.
 updatedAt: 2022-08-05
 type: Thought
 buttonText: Follow me on Along
@@ -9,9 +9,9 @@ externalLink: https://along.video/shadow
 
 While Tweeting about “Show off your mind” and thinking about breaking into making video content on TikTok, I randomly came across [“Along” on ProductHunt](https://www.producthunt.com/posts/along). 
 
-Along is a new video based social media app with a TikTok-esque user interface, where you can swipe up and down to go from one piece of contents, known as a “tape”, to another. 
+Along is a new video based social media app with a TikTok-esque user interface, where you can swipe up and down to go from one piece of content, known as a “tape”, to another. 
 
-Where Along differs, and really stands out in an exciting way, is that a “tape” is essentially a collection of videos called “clips” that creators can infinitely add to over a long span of time.
+Where Along differs, and really stands out in an exciting way, is that a “tape” is a collection of videos called “clips” that creators can infinitely add to over a long span of time.
 
 From there when a user is viewing a tape, they can swipe left and right to go from one clip to another.
 
