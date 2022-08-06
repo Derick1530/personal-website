@@ -7,7 +7,7 @@ buttonText: Follow me on Along
 externalLink: https://along.video/shadow
 ---
 
-While Tweeting about “Show off your mind” and thinking about breaking into making video content on TikTok, I randomly came across [“Along” on ProductHunt](https://www.producthunt.com/posts/along). 
+While Tweeting about “Show off your mind” and [thinking about breaking into making video content on TikTok](/learning-how-to-create-tiktok-content), I randomly came across [“Along” on ProductHunt](https://www.producthunt.com/posts/along). 
 
 Along is a new video based social media app with a TikTok-esque user interface, where you can swipe up and down to go from one piece of content, known as a “tape”, to another. 
 
