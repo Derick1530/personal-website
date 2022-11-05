@@ -9,9 +9,37 @@ In March of 2022, I wrote the following definition for the word “problem”, d
 
 > “A problem is a situation where an obstacle applies friction against an entity’s transition from a current state to a desired new state.” <br>- Shadow Smith
 
-Since writing this definition, I have used, shared, and discussed it at length and found where it shines and where it begins to break down.
+In my original post, I identified 7 ingredients that all must be present in order for a problem to exist:
 
-Now, 4 months later, I am revisiting it.
+1. **Entity** <br>A person, place, thing, or idea that has a state
+2. **Current state** <br>A current characteristic and/or circumstance of the entity
+3. **New state** <br>A new characteristic and/or circumstance of the entity
+4. **Transition** <br>A change in the entity’s state from a current state to a new state
+5. **Obstacle** <br>A source of friction pushing against the transition
+6. **Friction** <br>A force capable of stopping a transition
+7. **Desire** <br>A want for the entity to be in a specific new state
+
+However, after discussing this idea with colleagues, I am challenging the merits of these ingredients.
+
+---
+
+## Challenging the 7 ingredients
+
+1. **Entity** <br>A problem always has an entity.
+2. **Current state** <br>A problem's entity always has a current state.
+3. **New state** <br>A problem's entity can have an unlimited amount of new states, but if a particular new state isn't desired, there is no problem. However, if there is a threat that may change an entity's state to a new undesirable one, a new problem emerges where the subject "entity" becomes the previous entity's current state.
+4. **Transition:** <be>A problem always contains a transition from an entity's current state to a desired new state.
+5. **Obstacles:** <br>A problem always contains obstacles, but they are nested problems that are either in a "solved" or "unsolved" state.
+6. **Friction:** <br>A problem’s obstacles (or nested problems) do add friction to an entity’s transition, but the level of friction is more an indicator of how many nested problems exist between a current state and a desired new state than an ingredient itself.
+7. **Desire:** A problem requires a desire. So much so, I feel desire is at the center of what a problem truly is.
+
+---
+
+## The new ingredients
+
+1. **Entity** <br>A person, place, thing, or idea that has a state
+2. **Current state** <br>A current characteristic and/or circumstance of the entity
+3. **Desired state** <br>A desired characteristic and/or circumstance of the entity
 
 ---
 
@@ -19,4 +47,4 @@ Now, 4 months later, I am revisiting it.
 
 > “A problem is the desire for an entity to transition from its current state to a new one.” <br>- Shadow Smith
 
-A problem is _solved_ when the entity successfully transitions from its current state to the desired new one and _unsolved_ if the entity can not.
+A problem is _solved_ when the entity can successfully transition from its current state to the desired new one and _unsolved_ if the entity can not.
