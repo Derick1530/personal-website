@@ -28,7 +28,7 @@ However, after discussing this idea with colleagues, I am challenging the merits
 1. **Entity** <br>A problem always has an entity.
 2. **Current state** <br>A problem's entity always has a current state.
 3. **New state** <br>A problem's entity can have an unlimited amount of new states, but if a particular new state isn't desired, there is no problem. However, if there is a threat that may change an entity's state to a new undesirable one, a new problem emerges where the subject "entity" becomes the previous entity's current state.
-4. **Transition** <be>A problem always contains a transition from an entity's current state to a desired new state, but this feels too much like a derivative to continue to be called out as an ingredient.
+4. **Transition** <br>A problem always contains a transition from an entity's current state to a desired new state, but this feels too much like a derivative to continue to be called out as an ingredient.
 5. **Obstacles** <br>A problem always contains obstacles, but they are simply smaller, nested problems.
 6. **Friction** <br>A problem’s obstacles do add friction to an entity’s transition, but the amount of friction indicates how many smaller, nested problems exist along an entity's transition between a current state and a desired new state.
 7. **Desire** <br>A desire for an entity to be in a new state is required for a problem to exist.
