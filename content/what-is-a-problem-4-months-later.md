@@ -28,10 +28,10 @@ However, after discussing this idea with colleagues, I am challenging the merits
 1. **Entity** <br>A problem always has an entity.
 2. **Current state** <br>A problem's entity always has a current state.
 3. **New state** <br>A problem's entity can have an unlimited amount of new states, but if a particular new state isn't desired, there is no problem. However, if there is a threat that may change an entity's state to a new undesirable one, a new problem emerges where the subject "entity" becomes the previous entity's current state.
-4. **Transition:** <be>A problem always contains a transition from an entity's current state to a desired new state.
-5. **Obstacles:** <br>A problem always contains obstacles, but they are nested problems that are either in a "solved" or "unsolved" state.
-6. **Friction:** <br>A problem’s obstacles (or nested problems) do add friction to an entity’s transition, but the level of friction is more an indicator of how many nested problems exist between a current state and a desired new state than an ingredient itself.
-7. **Desire:** A problem requires a desire. So much so, I feel desire is at the center of what a problem truly is.
+4. **Transition** <be>A problem always contains a transition from an entity's current state to a desired new state.
+5. **Obstacles** <br>A problem always contains obstacles, but they are smaller, nested problems that are either _solved_ or _unsolved_.
+6. **Friction** <br>A problem’s obstacles _(or smaller nested problems)_ do add friction to an entity’s transition, but the amount of friction indicates how many smaller, nested problems exist along the transition between a current state and a desired new state.
+7. **Desire** <br>A problem always contains a desire for an entity to be in a new state.
 
 ---
 
