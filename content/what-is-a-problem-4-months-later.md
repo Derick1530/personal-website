@@ -35,16 +35,22 @@ However, after discussing this idea with colleagues, I am challenging the merits
 
 ---
 
-## The new ingredients
+## The true 5 ingredients
 
-1. **Entity** <br>A person, place, thing, or idea that has a state
-2. **Current state** <br>A current characteristic and/or circumstance of the entity
-3. **Desired state** <br>A desired characteristic and/or circumstance of the entity
+Ultimately, I feel 5 of my original 7 ingredients have held up throughout the evolution of my thinking.
 
+These are:
+
+1. Desire
+2. Entity
+3. Current state
+4. New state
+5. Transition
+ 
 ---
 
 ## My new definition
 
-> “A problem is the desire for an entity to transition from its current state to a new one.” <br>- Shadow Smith
+> “A problem is the desire for an entity to be in a specific new state and not a current one.” <br>- Shadow Smith
 
-A problem is _solved_ when the entity can successfully transition from its current state to the desired new one and _unsolved_ if the entity can not.
+A problem is _solved_ when the entity can successfully transition from its current state to the desired new one, and _unsolved_ if the entity can not.
