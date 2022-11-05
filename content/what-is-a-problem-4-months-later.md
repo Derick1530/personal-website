@@ -28,24 +28,20 @@ However, after discussing this idea with colleagues, I am challenging the merits
 1. **Entity** <br>A problem always has an entity.
 2. **Current state** <br>A problem's entity always has a current state.
 3. **New state** <br>A problem's entity can have an unlimited amount of new states, but if a particular new state isn't desired, there is no problem. However, if there is a threat that may change an entity's state to a new undesirable one, a new problem emerges where the subject "entity" becomes the previous entity's current state.
-4. **Transition** <be>A problem always contains a transition from an entity's current state to a desired new state.
-5. **Obstacles** <br>A problem always contains obstacles, but they are smaller, nested problems that are either _solved_ or _unsolved_.
-6. **Friction** <br>A problem’s obstacles _(or smaller nested problems)_ do add friction to an entity’s transition, but the amount of friction indicates how many smaller, nested problems exist along an entity's transition between a current state and a desired new state.
+4. **Transition** <be>A problem always contains a transition from an entity's current state to a desired new state, but this feels too much like a derivative to continue to be called out as an ingredient.
+5. **Obstacles** <br>A problem always contains obstacles, but they are simply smaller, nested problems.
+6. **Friction** <br>A problem’s obstacles do add friction to an entity’s transition, but the amount of friction indicates how many smaller, nested problems exist along an entity's transition between a current state and a desired new state.
 7. **Desire** <br>A desire for an entity to be in a new state is required for a problem to exist.
 
 ---
 
-## The true 5 ingredients
+## The true 3 ingredients
 
-Ultimately, I feel 5 of my original 7 ingredients have held up throughout the evolution of my thinking.
+Ultimately, I feel these 3 ingredients have emerged throughout the evolution of my thinking:
 
-These are:
-
-1. Desire
-2. Entity
-3. Current state
-4. New state
-5. Transition
+1. **Entity** <br>A person, place, thing, or idea that has a state
+3. **Current state** <br>A current characteristic and/or circumstance of the entity
+4. **Desired new state** <br>A desired new characteristic and/or circumstance of the entity
  
 ---
 
@@ -53,4 +49,4 @@ These are:
 
 > “A problem is the desire for an entity to be in a specific new state and not a current one.” <br>- Shadow Smith
 
-A problem is _solved_ when the entity can successfully transition from its current state to the desired new one, and _unsolved_ if the entity can not.
+A problem is _solved_ when the entity can successfully transition from its current state to the desired new one, and _unsolved_ if it can not.
