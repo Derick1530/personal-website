@@ -18,3 +18,4 @@ type: Thought
 11. "An aircraft parts manual details every nut, bolt, and instrument, but the entire manual won't teach you how to fly." - Nella Navets
 12. "Every problem is an opportunity in disguise." - John Adams
 13. “Well begun is half done.” - Aristotle
+14. "Live your life as if all your dreams have come true, and then challenge your reality to catch up." - Dan Lok
