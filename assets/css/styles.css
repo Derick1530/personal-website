@@ -52,6 +52,8 @@ a code {
 
 img { @apply rounded-md border; }
 
+iframe { @apply rounded-md border w-full aspect-video mb-6; }
+
 strong { @apply text-slate-800; }
 
 audio { @apply w-full; }
