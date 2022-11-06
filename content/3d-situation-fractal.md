@@ -47,6 +47,6 @@ In the interactive 3D Situation Fractal embedded below, I depict a person wantin
 
 Explore the 3D visualization by hovering over each node to see what they represent. You can also zoom into a particular node by clicking on it.
 
-<iframe src="https://stackblitz.com/edit/web-platform-cxpatp?embed=1&file=index.html&hideDevTools=1&hideExplorer=1&hideNavigation=1&theme=light&view=preview" title="Situation Fractal in 3D"></iframe>
+<iframe src="https://stackblitz.com/edit/3d-situation-fractal?embed=1&file=index.html&hideDevTools=1&hideExplorer=1&hideNavigation=1&theme=light&view=preview" title="Situation Fractal in 3D"></iframe>
 
 Shew, you best believe this experiment is just the beginning...
