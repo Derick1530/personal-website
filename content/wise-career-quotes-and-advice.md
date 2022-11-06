@@ -19,3 +19,4 @@ type: Thought
 12. "Every problem is an opportunity in disguise." - John Adams
 13. “Well begun is half done.” - Aristotle
 14. "Live your life as if all your dreams have come true, and then challenge your reality to catch up." - Dan Lok
+15. "Change before you have to." - Jack Welsh
